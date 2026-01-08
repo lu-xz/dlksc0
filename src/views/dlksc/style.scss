@@ -1,0 +1,454 @@
+.title {
+  background: url(~@/assets/dlkxzsclImg/biaoti.png) no-repeat;
+  background-size: 100% 100%;
+  height: 40px;
+  padding-left: 60px;
+  font-family: PangMenZhengDao, PangMenZhengDao;
+  font-weight: 400;
+  font-size: 20px;
+  color: #ffffff;
+  line-height: 10px;
+  text-align: left;
+  font-weight: 600;
+  margin-bottom: 14px;
+}
+.c1 {
+  padding: 15px 0 20px 0;
+  // background-color: #090A4E;
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.c3 li {
+  float: left;
+  font-size: 16px;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #ffffff;
+  padding: 0 5%;
+}
+.c3 li .num {
+  font-size: 48px;
+  font-family: PangMenZhengDao;
+  font-weight: 800;
+  color: #f62d45;
+  line-height: 64px;
+  padding-bottom: 8px;
+  text-align: center;
+}
+.c3 li .num0 {
+  color: #bae70c;
+}
+.c3 li .num1 {
+  color: #3af3ff;
+}
+.c3 li .num2 {
+  color: #f6b221;
+}
+.c3 li .num3 {
+  color: #0cf71a;
+}
+.c3 li .num4 {
+  color: #bae70c;
+}
+.c3 li .num5 {
+  color: #3af3ff;
+}
+.c3 li .num6 {
+  color: #f6b221;
+}
+.c3 li .num7 {
+  color: #0cf71a;
+}
+.c3 li .num8 {
+  color: #bae70c;
+}
+.c3 li .num9 {
+  color: #3af3ff;
+}
+.c3 li .num10 {
+  color: #f6b221;
+}
+.c3 li .num11 {
+  color: #0cf71a;
+}
+.c3 li .num12 {
+  color: #bae70c;
+}
+.c3 li .num13 {
+  color: #3af3ff;
+}
+.c3 li .num14 {
+  color: #f6b221;
+}
+.c3 li .num15 {
+  color: #0cf71a;
+}
+.c3 li .num16 {
+  color: #bae70c;
+}
+.c3 li .num17 {
+  color: #3af3ff;
+}
+.c3 li .num18 {
+  color: #f6b221;
+}
+.c3 li .num19 {
+  color: #0cf71a;
+}
+.c3 {
+  margin-top: 25px;
+  margin-bottom: 30px;
+}
+.c4 {
+  clear: both;
+  padding-top: 50px;
+}
+
+::v-deep .el-table thead tr {
+  margin-bottom: 20px;
+}
+::v-deep .el-table tr:nth-child(2n) {
+  background-image: url("~@/assets/dlkxzsclImg/table-h.png");
+  background-size: 100% 100%;
+}
+::v-deep .el-table tr:nth-child(2n-1) {
+  // background: none;
+  background-image: url("~@/assets/dlkxzsclImg/table-h.png");
+  background-size: 100% 100%;
+}
+::v-deep
+  .el-table--enable-row-hover
+  .el-table__body
+  tr:hover
+  > td.el-table__cell {
+  background: none !important;
+}
+.el-table {
+  background: none !important;
+  color: #fff;
+}
+::v-deep .el-table__body tr.current-row > td.el-table__cell {
+  background-color: transparent;
+}
+// 点击高量行  表格加highlight-current-row
+::v-deep .el-table__body tr.current-row {
+  background-image: url("~@/assets/dlkxzsclImg/table-g.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  color: #fff !important;
+}
+// hover高亮行
+::v-deep .el-table__body tr:hover {
+  background-image: url("~@/assets/dlkxzsclImg/table-g.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  color: #fff !important;
+}
+::v-deep .el-table__body {
+  //-webkit-border-horizontal-spacing: 13px;  // 水平间距
+  -webkit-border-vertical-spacing: 10px; // 垂直间距
+}
+//想同时实现行与列的间隔效果，可以直接使用 border-spacing: 20px 实现
+::v-deep .el-table tr {
+  background-color: transparent !important;
+}
+::v-deep .el-table th.el-table__cell.is-leaf,
+::v-deep .el-table td.el-table__cell {
+  border-bottom: none;
+}
+::v-deep .el-table .cell.el-tooltip {
+  color: #fff;
+  font-size: 16px;
+}
+
+::v-deep .el-table--medium .el-table__cell {
+  padding: 13px 0;
+  margin-bottom: 40px;
+}
+::v-deep .el-form-item--medium .el-form-item__label {
+  font-size: 16px;
+  color: #fff;
+}
+::v-deep .el-form-item__content .el-input__inner {
+  background: none;
+  color: #fff;
+}
+
+.c6 .el-table {
+  max-height: 355px;
+  overflow: auto;
+  margin-top: 20px;
+}
+.c6 {
+  margin-top: 20px;
+  position: relative;
+}
+.el-table::before {
+  display: none;
+}
+.back {
+  background: rgba(7, 22, 38, 0);
+  border-radius: 8px;
+  color: #ffffff;
+  border: 2px solid;
+  border-image: linear-gradient(
+      90deg,
+      rgba(12, 21, 28, 1),
+      rgba(58, 99, 149, 1),
+      rgba(200, 225, 247, 1),
+      rgba(63, 109, 161, 1),
+      rgba(10, 16, 21, 1)
+    )
+    2 2;
+  cursor: pointer;
+}
+.back:hover {
+  background: rgba(7, 22, 38, 0.1);
+  border-image: linear-gradient(
+      90deg,
+      rgb(39, 66, 86, 1),
+      rgb(73, 123, 185, 1),
+      rgb(239, 243, 246, 1),
+      rgb(73, 123, 185, 1),
+      rgb(39, 66, 86, 1)
+    )
+    2 2;
+}
+.cc1 li {
+  float: left;
+  color: #fff;
+  font-size: 16px;
+}
+.title2 {
+  font-size: 30px;
+  font-family: Microsoft YaHei;
+  font-weight: bold;
+  color: #ffffff;
+  padding-bottom: 15px;
+}
+.cc1 {
+  box-shadow: 0px 0px 30px 5px #203468 inset;
+  padding: 20px 40px 20px 40px;
+  margin-top: 20px;
+}
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.yy {
+  box-shadow: 0px 0px 30px 5px #203468 inset;
+  padding: 20px;
+}
+.title3 {
+  font-size: 18px;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #ffffff;
+}
+.main {
+  margin-top: 15px;
+}
+.title4 {
+  font-size: 20px;
+  font-family: Microsoft YaHei;
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 15px;
+  padding-left: 37px;
+}
+.cc3 {
+  box-shadow: 0px 0px 30px 5px #203468 inset;
+  padding: 20px 30px;
+  padding-bottom: 8px;
+}
+.cc3 ::v-deep .el-table__body-wrapper {
+  max-height: 130px;
+  min-height: 130px;
+  overflow-y: auto;
+}
+.cc3 ::v-deep .el-table--medium .el-table__cell {
+  padding: 10px 0;
+}
+
+.cc4 {
+  box-shadow: 0px 0px 30px 5px #203468 inset;
+  padding: 20px 30px;
+  padding-bottom: 8px;
+  margin-top: 20px;
+}
+.cc4 ::v-deep .el-table__body-wrapper {
+  max-height: 520px;
+  min-height: 520px;
+  overflow-y: auto;
+}
+.cc4 ::v-deep .el-table--medium .el-table__cell {
+  padding: 10px 0;
+}
+.pagination-container {
+  background: none !important;
+  margin: 0 auto;
+  display: table;
+  margin-top: 10px;
+}
+::v-deep .pagination-container .el-pagination {
+  /* right: 0; */
+  position: static;
+}
+::v-deep .el-pagination__total,
+::v-deep .el-pagination__jump {
+  color: #fff;
+}
+::v-deep .el-pagination__sizes .el-input .el-input__inner,
+::v-deep .el-pagination.is-background .btn-prev:disabled,
+::v-deep .el-pagination.is-background .btn-next:disabled {
+  font-size: 13px;
+  padding-left: 8px;
+  background: rgba(255, 255, 255, 0) !important;
+  border: 1px solid #2697f0 !important;
+  border-radius: 2px;
+  color: #fff !important;
+}
+// ::v-deep .el-pagination.is-background .el-pager li:not(.disabled).active {
+//   background-color: #427aa6 !important;
+//   color: #ffffff;
+// }
+::v-deep .el-pagination.is-background .el-pager li,
+::v-deep .el-pagination.is-background .btn-next,
+::v-deep .el-pagination__editor.el-input .el-input__inner {
+  background: rgba(255, 255, 255, 0) !important;
+  border: 1px solid #2697f0 !important;
+  border-radius: 2px;
+  color: #fff !important;
+}
+
+::v-deep .el-pagination.is-background .btn-prev,
+::v-deep .el-pagination.is-background .btn-next,
+::v-deep .el-pagination.is-background .el-pager li {
+  background: rgba(255, 255, 255, 0) !important;
+  border: 1px solid #2697f0 !important;
+  border-radius: 2px;
+  color: #fff !important;
+}
+.cc1 ul {
+  display: flex;
+  justify-content: space-between;
+}
+::v-deep .el-table--scrollable-y .el-table__body-wrapper {
+  overflow-y: auto;
+}
+::v-deep th.el-table__cell.gutter {
+  display: none;
+}
+.ts {
+  clear: both;
+  text-align: center;
+  font-size: 20px;
+  color: #fff;
+  padding-top: 60px;
+  padding-right: 60px;
+  position: absolute;
+  left: 30%;
+  top: 65px;
+}
+.ts ::v-deep input.el-input__inner {
+  background: none;
+  color: #fff;
+}
+.ts input.el-input__inner {
+  color: #fff;
+  border: 1px solid #fff;
+}
+.ts .el-input__inner:focus {
+  outline: none;
+  border-color: #fff;
+}
+.px {
+  position: absolute;
+  right: 20px;
+  top: 17px;
+  cursor: pointer;
+}
+
+::v-deep .el-table__fixed-right {
+  right: 0 !important;
+  // bottom: 0 !important;
+}
+::v-deep .el-table__body-wrapper {
+  &::-webkit-scrollbar {
+    // 整个滚动条
+    width: 0; // 纵向滚动条的宽度
+    background: rgba(213, 215, 220, 0.3);
+    border: none;
+  }
+  &::-webkit-scrollbar-track {
+    // 滚动条轨道
+    border: none;
+  }
+}
+
+// --------------------隐藏table gutter列和内容区右侧的空白 start
+::v-deep .el-table th.gutter {
+  display: none;
+  width: 0;
+}
+::v-deep .el-table colgroup col[name="gutter"] {
+  display: none;
+  width: 0;
+}
+
+::v-deep .el-table__body {
+  width: 100% !important;
+}
+
+.reason {
+  color: #fff;
+  font-size: 16px;
+  width: 640px;
+  white-space: pre-wrap;
+  padding: 0 10px;
+  position: absolute;
+  right: 20px;
+  top: 118px;
+  height: 100px;
+  line-height: 28px;
+}
+.reason-content {
+  font-weight: 800;
+  color: #3af3ff;
+}
+
+//调整走马灯箭头-左箭头
+::v-deep .el-carousel__arrow--left {
+  top: 40px;
+  left: 10px;
+  font-size: 18px;
+  color: #02e9ff;
+  border: none;
+  border-radius: 50%;
+  height: 36px;
+  width: 36px;
+  background-color: rgba(31, 45, 61, 0.8);
+}
+
+//右箭头
+::v-deep .el-carousel__arrow--right {
+  top: 40px;
+  right: 50px;
+  font-size: 18px;
+  color: #02e9ff;
+  border: none;
+  border-radius: 50%;
+  height: 36px;
+  width: 36px;
+  background-color: rgba(31, 45, 61, 0.8);
+}
+
+.chartMain {
+  overflow-y: auto;
+  height: calc(100vh - 180px);
+  padding: 10px;
+}

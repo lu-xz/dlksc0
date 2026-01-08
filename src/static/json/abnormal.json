@@ -1,0 +1,3892 @@
+[
+    {
+        "custNo": "3203076162698",
+        "yearNum": "2023",
+        "dataRange": "11月",
+        "dealNum": "20",
+        "totalNum": "106.70",
+        "msg": "设计处理量:20m³/d,处理量率:106.70%,超过设计处理量",
+        "abnormalType": "7",
+        "siteName": "黄集镇谢庄村杜小庄"
+    },
+    {
+        "custNo": "3203003764474",
+        "yearNum": "2023",
+        "dataRange": "11月",
+        "dealNum": "6.23",
+        "totalNum": "4.24",
+        "msg": "平均日处理量:6.23,平均日用电量:4.24,11月1日-11月19日平均日用电量1.06",
+        "abnormalType": "1",
+        "siteName": "茅村镇梅庄村梅庄"
+    },
+    {
+        "custNo": "3203005976286",
+        "yearNum": "2023",
+        "dataRange": "11月",
+        "dealNum": "22.73",
+        "totalNum": "0.00",
+        "msg": "平均日处理量:22.73,平均日用电量:0.00,11月1日-11月30日零用电量",
+        "abnormalType": "3",
+        "siteName": "茅村镇岗头村岗头"
+    },
+    {
+        "custNo": "3203006276552",
+        "yearNum": "2023",
+        "dataRange": "11月",
+        "dealNum": "10.17",
+        "totalNum": "15.46",
+        "msg": "平均日处理量:10.17,平均日用电量:15.46,11月1日-11月9日平均日用电量0.27",
+        "abnormalType": "3",
+        "siteName": "茅村镇任庄村任庄（叶台聚兴庄）"
+    },
+    {
+        "custNo": "3208839810710",
+        "yearNum": "2023",
+        "dataRange": "11月",
+        "dealNum": "10.40",
+        "totalNum": "0.25",
+        "msg": "平均日处理量:10.40,平均日用电量:0.25,11月1日-11月30日平均日用电量0.25",
+        "abnormalType": "3",
+        "siteName": "茅村镇梁山内华北"
+    },
+    {
+        "custNo": "3208839814982",
+        "yearNum": "2023",
+        "dataRange": "11月",
+        "dealNum": "9.43",
+        "totalNum": "15.48",
+        "msg": "平均日处理量:9.43,平均日用电量:15.48,11月3日-11月20日平均日用电量1.81",
+        "abnormalType": "3",
+        "siteName": "茅村镇留武村小留武"
+    },
+    {
+        "custNo": "3203076132012",
+        "yearNum": "2023",
+        "dataRange": "11月",
+        "dealNum": "11.00",
+        "totalNum": "12.29",
+        "msg": "平均日处理量:11.00,平均日用电量:12.29,11月1日-11月9日零用电量",
+        "abnormalType": "3",
+        "siteName": "柳泉镇官路村西官路"
+    },
+    {
+        "custNo": "3203077788517",
+        "yearNum": "2023",
+        "dataRange": "11月",
+        "dealNum": "13.20",
+        "totalNum": "0.36",
+        "msg": "平均日处理量:13.20,平均日用电量:0.36,11月1日-11月30日平均日用电量0.36",
+        "abnormalType": "3",
+        "siteName": "张集镇李村村陈楼"
+    },
+    {
+        "custNo": "3203003759560",
+        "yearNum": "2023",
+        "dataRange": "11月",
+        "dealNum": "13.30",
+        "totalNum": "4.53",
+        "msg": "平均日处理量:13.30,平均日用电量:4.53,11月14日-11月30日平均日用电量1.00",
+        "abnormalType": "3",
+        "siteName": "大许镇西探村西探"
+    },
+    {
+        "custNo": "3203003773352",
+        "yearNum": "2023",
+        "dataRange": "11月",
+        "dealNum": "0.57",
+        "totalNum": "0.21",
+        "msg": "平均日处理量:0.57,平均日用电量:0.21,11月1日-11月30日平均日用电量0.21",
+        "abnormalType": "1",
+        "siteName": "大许镇太山村吴庄"
+    },
+    {
+        "custNo": "3203003994585",
+        "yearNum": "2023",
+        "dataRange": "11月",
+        "dealNum": "6.17",
+        "totalNum": "6.30",
+        "msg": "平均日处理量:6.17,平均日用电量:6.30,11月1日-11月22日平均日用电量0.31",
+        "abnormalType": "1",
+        "siteName": "大许镇郑庙村后刘家"
+    },
+    {
+        "custNo": "3203006274543",
+        "yearNum": "2023",
+        "dataRange": "11月",
+        "dealNum": "49.67",
+        "totalNum": "4.80",
+        "msg": "平均日处理量:49.67,平均日用电量:4.80,11月6日-11月28日平均日用电量0.33",
+        "abnormalType": "3",
+        "siteName": "大许镇沙庄村小沙庄"
+    },
+    {
+        "custNo": "3203003939508",
+        "yearNum": "2023",
+        "dataRange": "11月",
+        "dealNum": "6.83",
+        "totalNum": "9.17",
+        "msg": "平均日处理量:6.83,平均日用电量:9.17,11月23日-11月30日平均日用电量1.16",
+        "abnormalType": "1",
+        "siteName": "单集镇邢楼村邢楼"
+    },
+    {
+        "custNo": "3203079181863",
+        "yearNum": "2023",
+        "dataRange": "11月",
+        "dealNum": "18.10",
+        "totalNum": "0.11",
+        "msg": "平均日处理量:18.10,平均日用电量:0.11,11月1日-11月30日平均日用电量0.11",
+        "abnormalType": "3",
+        "siteName": "单集镇庙山村新庙山"
+    },
+    {
+        "custNo": "3203003944229",
+        "yearNum": "2023",
+        "dataRange": "11月",
+        "dealNum": "8.33",
+        "totalNum": "4.82",
+        "msg": "平均日处理量:8.33,平均日用电量:4.82,11月8日-11月30日平均日用电量1.20",
+        "abnormalType": "3",
+        "siteName": "三堡街道新河村新何社区"
+    },
+    {
+        "custNo": "3203076162698",
+        "yearNum": "2023",
+        "dataRange": "10月",
+        "dealNum": "20",
+        "totalNum": "91.60",
+        "msg": "设计处理量:20m³/d,处理量率:91.60%,达到设计处理量90%以上",
+        "abnormalType": "7",
+        "siteName": "黄集镇谢庄村杜小庄"
+    },
+    {
+        "custNo": "3203003982869",
+        "yearNum": "2023",
+        "dataRange": "10月",
+        "dealNum": "11.26",
+        "totalNum": "18.01",
+        "msg": "平均日处理量:11.26,平均日用电量:18.01,10月14日-10月24日零用电量",
+        "abnormalType": "3",
+        "siteName": "茅村镇洞山村洞山"
+    },
+    {
+        "custNo": "3203005976286",
+        "yearNum": "2023",
+        "dataRange": "10月",
+        "dealNum": "21.26",
+        "totalNum": "0.00",
+        "msg": "平均日处理量:21.26,平均日用电量:0.00,10月1日-10月31日零用电量",
+        "abnormalType": "3",
+        "siteName": "茅村镇岗头村岗头"
+    },
+    {
+        "custNo": "3203006276552",
+        "yearNum": "2023",
+        "dataRange": "10月",
+        "dealNum": "9.52",
+        "totalNum": "6.13",
+        "msg": "平均日处理量:9.52,平均日用电量:6.13,10月11日-10月31日平均日用电量0.51",
+        "abnormalType": "3",
+        "siteName": "茅村镇任庄村任庄（叶台聚兴庄）"
+    },
+    {
+        "custNo": "3203006276552",
+        "yearNum": "2023",
+        "dataRange": "10月-11月",
+        "dealNum": "295-305",
+        "totalNum": "190.09-463.79",
+        "msg": "处理量增加10,用电量增加273.70",
+        "abnormalType": "4",
+        "siteName": "茅村镇任庄村任庄（叶台聚兴庄）"
+    },
+    {
+        "custNo": "3208839814982",
+        "yearNum": "2023",
+        "dataRange": "10月",
+        "dealNum": "9.06",
+        "totalNum": "10.73",
+        "msg": "平均日处理量:9.06,平均日用电量:10.73,10月23日-10月30日平均日用电量0.98",
+        "abnormalType": "3",
+        "siteName": "茅村镇留武村小留武"
+    },
+    {
+        "custNo": "3203077807769",
+        "yearNum": "2023",
+        "dataRange": "10月",
+        "dealNum": "12.00",
+        "totalNum": "13.22",
+        "msg": "平均日处理量:12.00,平均日用电量:13.22,10月1日-10月13日平均日用电量0.15",
+        "abnormalType": "3",
+        "siteName": "汉王镇东沿村项庄（东沿北）"
+    },
+    {
+        "custNo": "3203004195698",
+        "yearNum": "2023",
+        "dataRange": "10月",
+        "dealNum": "7.48",
+        "totalNum": "5.72",
+        "msg": "平均日处理量:7.48,平均日用电量:5.72,10月1日-10月13日平均日用电量0.21",
+        "abnormalType": "1",
+        "siteName": "棠张镇冯楼村冯楼"
+    },
+    {
+        "custNo": "3203006221653",
+        "yearNum": "2023",
+        "dataRange": "10月",
+        "dealNum": "13.52",
+        "totalNum": "26.94",
+        "msg": "平均日处理量:13.52,平均日用电量:26.94,10月21日-10月31日平均日用电量0.54",
+        "abnormalType": "3",
+        "siteName": "柳泉镇王林村伊楼"
+    },
+    {
+        "custNo": "3203076132012",
+        "yearNum": "2023",
+        "dataRange": "10月",
+        "dealNum": "10.52",
+        "totalNum": "13.00",
+        "msg": "平均日处理量:10.52,平均日用电量:13.00,10月21日-10月31日平均日用电量0.63",
+        "abnormalType": "3",
+        "siteName": "柳泉镇官路村西官路"
+    },
+    {
+        "custNo": "3203077788517",
+        "yearNum": "2023",
+        "dataRange": "10月",
+        "dealNum": "15.65",
+        "totalNum": "0.36",
+        "msg": "平均日处理量:15.65,平均日用电量:0.36,10月1日-10月31日平均日用电量0.36",
+        "abnormalType": "3",
+        "siteName": "张集镇李村村陈楼"
+    },
+    {
+        "custNo": "3203003773352",
+        "yearNum": "2023",
+        "dataRange": "10月",
+        "dealNum": "0.52",
+        "totalNum": "0.21",
+        "msg": "平均日处理量:0.52,平均日用电量:0.21,10月1日-10月31日平均日用电量0.21",
+        "abnormalType": "1",
+        "siteName": "大许镇太山村吴庄"
+    },
+    {
+        "custNo": "3203003994585",
+        "yearNum": "2023",
+        "dataRange": "10月",
+        "dealNum": "1.71",
+        "totalNum": "0.31",
+        "msg": "平均日处理量:1.71,平均日用电量:0.31,10月1日-10月31日平均日用电量0.31",
+        "abnormalType": "1",
+        "siteName": "大许镇郑庙村后刘家"
+    },
+    {
+        "custNo": "3203079181863",
+        "yearNum": "2023",
+        "dataRange": "10月",
+        "dealNum": "16.42",
+        "totalNum": "0.11",
+        "msg": "平均日处理量:16.42,平均日用电量:0.11,10月1日-10月31日平均日用电量0.11",
+        "abnormalType": "3",
+        "siteName": "单集镇庙山村新庙山"
+    },
+    {
+        "custNo": "3203076516726",
+        "yearNum": "2023",
+        "dataRange": "10月-11月",
+        "dealNum": "582-612",
+        "totalNum": "731.29-1050.91",
+        "msg": "处理量增加30,用电量增加319.62",
+        "abnormalType": "4",
+        "siteName": "伊庄镇赵圩村赵庄"
+    },
+    {
+        "custNo": "3203006146832",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "306-316",
+        "totalNum": "949.89-1129.05",
+        "msg": "处理量增加10,用电量增加179.16",
+        "abnormalType": "4",
+        "siteName": "黄集镇吕楼村杜楼村"
+    },
+    {
+        "custNo": "3203076162698",
+        "yearNum": "2023",
+        "dataRange": "9月",
+        "dealNum": "20",
+        "totalNum": "197.80",
+        "msg": "设计处理量:20m³/d,处理量率:197.80%,超过设计处理量",
+        "abnormalType": "7",
+        "siteName": "黄集镇谢庄村杜小庄"
+    },
+    {
+        "custNo": "3208839208064",
+        "yearNum": "2023",
+        "dataRange": "9月",
+        "dealNum": "14.40",
+        "totalNum": "12.24",
+        "msg": "平均日处理量:14.40,平均日用电量:12.24,9月4日-9月11日平均日用电量0.47",
+        "abnormalType": "3",
+        "siteName": "黄集镇传楼村城里庄"
+    },
+    {
+        "custNo": "3203006160403",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "265-299",
+        "totalNum": "367.44-751.54",
+        "msg": "处理量增加34,用电量增加384.10",
+        "abnormalType": "4",
+        "siteName": "马坡镇拾段村绳庄村"
+    },
+    {
+        "custNo": "3208839561231",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "714-720",
+        "totalNum": "560.37-403.99",
+        "msg": "处理量增加6,用电量减少156.38",
+        "abnormalType": "6",
+        "siteName": "郑集镇苗湾村冯代庄"
+    },
+    {
+        "custNo": "3203003982869",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "352-349",
+        "totalNum": "889.84-558.27",
+        "msg": "处理量减少3,用电量减少331.57",
+        "abnormalType": "4",
+        "siteName": "茅村镇洞山村洞山"
+    },
+    {
+        "custNo": "3203005976286",
+        "yearNum": "2023",
+        "dataRange": "9月",
+        "dealNum": "25.47",
+        "totalNum": "0.00",
+        "msg": "平均日处理量:25.47,平均日用电量:0.00,9月1日-9月30日零用电量",
+        "abnormalType": "3",
+        "siteName": "茅村镇岗头村岗头"
+    },
+    {
+        "custNo": "3208839810710",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "332-309",
+        "totalNum": "578.75-924.18",
+        "msg": "处理量减少23,用电量增加345.43",
+        "abnormalType": "5",
+        "siteName": "茅村镇梁山内华北"
+    },
+    {
+        "custNo": "3208839814982",
+        "yearNum": "2023",
+        "dataRange": "9月",
+        "dealNum": "9.03",
+        "totalNum": "4.66",
+        "msg": "平均日处理量:9.03,平均日用电量:4.66,9月8日-9月15日平均日用电量1.15",
+        "abnormalType": "3",
+        "siteName": "茅村镇留武村小留武"
+    },
+    {
+        "custNo": "3208839814982",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "271-281",
+        "totalNum": "139.82-332.57",
+        "msg": "处理量增加10,用电量增加192.75",
+        "abnormalType": "4",
+        "siteName": "茅村镇留武村小留武"
+    },
+    {
+        "custNo": "3203003936284",
+        "yearNum": "2023",
+        "dataRange": "9月",
+        "dealNum": "2.87",
+        "totalNum": "1.91",
+        "msg": "平均日处理量:2.87,平均日用电量:1.91,9月16日-9月30日平均日用电量0.14",
+        "abnormalType": "1",
+        "siteName": "汉王镇班井村班井村"
+    },
+    {
+        "custNo": "3203004195698",
+        "yearNum": "2023",
+        "dataRange": "9月",
+        "dealNum": "10.20",
+        "totalNum": "2.08",
+        "msg": "平均日处理量:10.20,平均日用电量:2.08,9月8日-9月30日平均日用电量0.21",
+        "abnormalType": "3",
+        "siteName": "棠张镇冯楼村冯楼"
+    },
+    {
+        "custNo": "3203070235673",
+        "yearNum": "2023",
+        "dataRange": "9月",
+        "dealNum": "7.93",
+        "totalNum": "0.28",
+        "msg": "平均日处理量:7.93,平均日用电量:0.28,9月1日-9月30日平均日用电量0.28",
+        "abnormalType": "1",
+        "siteName": "棠张镇高庄村高庄"
+    },
+    {
+        "custNo": "3203070246085",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "419-421",
+        "totalNum": "328.02-464.58",
+        "msg": "处理量增加2,用电量增加136.56",
+        "abnormalType": "4",
+        "siteName": "棠张镇学前村前学庄"
+    },
+    {
+        "custNo": "3203079600961",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "440-433",
+        "totalNum": "457.72-576.84",
+        "msg": "处理量减少7,用电量增加119.12",
+        "abnormalType": "5",
+        "siteName": "棠张镇沙庄崔庄村"
+    },
+    {
+        "custNo": "3203003762913",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "250-261",
+        "totalNum": "344.06-534.77",
+        "msg": "处理量增加11,用电量增加190.71",
+        "abnormalType": "4",
+        "siteName": "柳泉镇西堡村西堡"
+    },
+    {
+        "custNo": "3203003769632",
+        "yearNum": "2023",
+        "dataRange": "9月",
+        "dealNum": "2.03",
+        "totalNum": "3.10",
+        "msg": "平均日处理量:2.03,平均日用电量:3.10,9月1日-9月21日平均日用电量0.83",
+        "abnormalType": "1",
+        "siteName": "柳泉镇前象村后孟"
+    },
+    {
+        "custNo": "3203003769632",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "61-72",
+        "totalNum": "92.98-281.06",
+        "msg": "处理量增加11,用电量增加188.08",
+        "abnormalType": "4",
+        "siteName": "柳泉镇前象村后孟"
+    },
+    {
+        "custNo": "3203006221653",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "438-419",
+        "totalNum": "596.37-835.28",
+        "msg": "处理量减少19,用电量增加238.91",
+        "abnormalType": "5",
+        "siteName": "柳泉镇王林村伊楼"
+    },
+    {
+        "custNo": "3203006221666",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "504-517",
+        "totalNum": "265.61-993.93",
+        "msg": "处理量增加13,用电量增加728.32",
+        "abnormalType": "4",
+        "siteName": "柳泉镇西马村西马"
+    },
+    {
+        "custNo": "3203006242248",
+        "yearNum": "2023",
+        "dataRange": "9月",
+        "dealNum": "21.17",
+        "totalNum": "20.89",
+        "msg": "平均日处理量:21.17,平均日用电量:20.89,9月22日-9月30日平均日用电量0.65",
+        "abnormalType": "3",
+        "siteName": "柳泉镇西马村南马"
+    },
+    {
+        "custNo": "3203006273433",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "395-382",
+        "totalNum": "189.33-530.03",
+        "msg": "处理量减少13,用电量增加340.70",
+        "abnormalType": "5",
+        "siteName": "柳泉镇大冯村大冯"
+    },
+    {
+        "custNo": "3203006277304",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "235-241",
+        "totalNum": "777.46-1213.51",
+        "msg": "处理量增加6,用电量增加436.05",
+        "abnormalType": "4",
+        "siteName": "柳泉镇套里村王套"
+    },
+    {
+        "custNo": "3203006277309",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "423-416",
+        "totalNum": "793.38-598.67",
+        "msg": "处理量减少7,用电量减少194.71",
+        "abnormalType": "4",
+        "siteName": "柳泉镇王村村王村"
+    },
+    {
+        "custNo": "3203070256394",
+        "yearNum": "2023",
+        "dataRange": "9月",
+        "dealNum": "20",
+        "totalNum": "106.50",
+        "msg": "设计处理量:20m³/d,处理量率:106.50%,超过设计处理量",
+        "abnormalType": "7",
+        "siteName": "房村镇尚王村韩庄"
+    },
+    {
+        "custNo": "3203070264452",
+        "yearNum": "2023",
+        "dataRange": "9月",
+        "dealNum": "15.67",
+        "totalNum": "8.84",
+        "msg": "平均日处理量:15.67,平均日用电量:8.84,9月1日-9月19日零用电量",
+        "abnormalType": "3",
+        "siteName": "房村镇尚王村尚王村"
+    },
+    {
+        "custNo": "3203070264452",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "470-432",
+        "totalNum": "265.14-692.06",
+        "msg": "处理量减少38,用电量增加426.92",
+        "abnormalType": "5",
+        "siteName": "房村镇尚王村尚王村"
+    },
+    {
+        "custNo": "3203070355172",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "348-346",
+        "totalNum": "606.71-478.60",
+        "msg": "处理量减少2,用电量减少128.11",
+        "abnormalType": "4",
+        "siteName": "张集镇后赵村后赵村"
+    },
+    {
+        "custNo": "3203077788517",
+        "yearNum": "2023",
+        "dataRange": "9月",
+        "dealNum": "18.07",
+        "totalNum": "0.35",
+        "msg": "平均日处理量:18.07,平均日用电量:0.35,9月1日-9月30日平均日用电量0.35",
+        "abnormalType": "3",
+        "siteName": "张集镇李村村陈楼"
+    },
+    {
+        "custNo": "3203003705588",
+        "yearNum": "2023",
+        "dataRange": "9月",
+        "dealNum": "2.97",
+        "totalNum": "12.69",
+        "msg": "平均日处理量:2.97,平均日用电量:12.69,9月22日-9月30日平均日用电量0.89",
+        "abnormalType": "1",
+        "siteName": "大许镇房亭村房亭"
+    },
+    {
+        "custNo": "3203003705588",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "89-92",
+        "totalNum": "380.61-21.91",
+        "msg": "处理量增加3,用电量减少358.70",
+        "abnormalType": "6",
+        "siteName": "大许镇房亭村房亭"
+    },
+    {
+        "custNo": "3203003773352",
+        "yearNum": "2023",
+        "dataRange": "9月",
+        "dealNum": "0.60",
+        "totalNum": "0.21",
+        "msg": "平均日处理量:0.60,平均日用电量:0.21,9月1日-9月30日平均日用电量0.21",
+        "abnormalType": "1",
+        "siteName": "大许镇太山村吴庄"
+    },
+    {
+        "custNo": "3203006263653",
+        "yearNum": "2023",
+        "dataRange": "9月",
+        "dealNum": "4.23",
+        "totalNum": "4.77",
+        "msg": "平均日处理量:4.23,平均日用电量:4.77,9月1日-9月10日平均日用电量0.26;9月13日-9月25日平均日用电量0.14",
+        "abnormalType": "1",
+        "siteName": "大许镇郑庙村后刘"
+    },
+    {
+        "custNo": "3203006272399",
+        "yearNum": "2023",
+        "dataRange": "9月",
+        "dealNum": "30",
+        "totalNum": "95.70",
+        "msg": "设计处理量:30m³/d,处理量率:95.70%,达到设计处理量90%以上",
+        "abnormalType": "7",
+        "siteName": "大许镇刘鹿村一条脊"
+    },
+    {
+        "custNo": "3203077121384",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "239-250",
+        "totalNum": "709.84-486.64",
+        "msg": "处理量增加11,用电量减少223.20",
+        "abnormalType": "6",
+        "siteName": "大许镇后王村前火神庙"
+    },
+    {
+        "custNo": "3203079048284",
+        "yearNum": "2023",
+        "dataRange": "9月",
+        "dealNum": "13.17",
+        "totalNum": "6.14",
+        "msg": "平均日处理量:13.17,平均日用电量:6.14,9月16日-9月30日零用电量",
+        "abnormalType": "3",
+        "siteName": "大许镇河西村上河湾"
+    },
+    {
+        "custNo": "3203079048284",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "395-410",
+        "totalNum": "184.23-505.70",
+        "msg": "处理量增加15,用电量增加321.47",
+        "abnormalType": "4",
+        "siteName": "大许镇河西村上河湾"
+    },
+    {
+        "custNo": "3203006159618",
+        "yearNum": "2023",
+        "dataRange": "9月",
+        "dealNum": "20",
+        "totalNum": "95.70",
+        "msg": "设计处理量:20m³/d,处理量率:95.70%,达到设计处理量90%以上",
+        "abnormalType": "7",
+        "siteName": "大彭镇雁群村贾楼村"
+    },
+    {
+        "custNo": "3208839199426",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "97-96",
+        "totalNum": "579.00-462.83",
+        "msg": "处理量减少1,用电量减少116.17",
+        "abnormalType": "4",
+        "siteName": "大彭镇田巷村苗山村"
+    },
+    {
+        "custNo": "3203079181863",
+        "yearNum": "2023",
+        "dataRange": "9月",
+        "dealNum": "15.47",
+        "totalNum": "0.11",
+        "msg": "平均日处理量:15.47,平均日用电量:0.11,9月1日-9月30日平均日用电量0.11",
+        "abnormalType": "3",
+        "siteName": "单集镇庙山村新庙山"
+    },
+    {
+        "custNo": "3203006218963",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "311-302",
+        "totalNum": "643.64-431.28",
+        "msg": "处理量减少9,用电量减少212.36",
+        "abnormalType": "4",
+        "siteName": "利国镇西李村东孙家"
+    },
+    {
+        "custNo": "3203006221633",
+        "yearNum": "2023",
+        "dataRange": "9月",
+        "dealNum": "8.77",
+        "totalNum": "2.86",
+        "msg": "平均日处理量:8.77,平均日用电量:2.86,9月1日-9月11日平均日用电量0.40",
+        "abnormalType": "3",
+        "siteName": "利国镇吴庄村义和"
+    },
+    {
+        "custNo": "3203006234718",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "325-308",
+        "totalNum": "366.51-583.72",
+        "msg": "处理量减少17,用电量增加217.21",
+        "abnormalType": "5",
+        "siteName": "利国镇黄山村厉家"
+    },
+    {
+        "custNo": "3203006237223",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "438-421",
+        "totalNum": "556.73-386.50",
+        "msg": "处理量减少17,用电量减少170.23",
+        "abnormalType": "4",
+        "siteName": "利国镇西李村前石楼"
+    },
+    {
+        "custNo": "3203006238104",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "229-239",
+        "totalNum": "643.76-514.11",
+        "msg": "处理量增加10,用电量减少129.65",
+        "abnormalType": "6",
+        "siteName": "利国镇马元村祁庄西"
+    },
+    {
+        "custNo": "3203005898733",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "615-633",
+        "totalNum": "2090.38-2308.15",
+        "msg": "处理量增加18,用电量增加217.77",
+        "abnormalType": "4",
+        "siteName": "刘集镇车村村车村东"
+    },
+    {
+        "custNo": "3203006173062",
+        "yearNum": "2023",
+        "dataRange": "9月-10月",
+        "dealNum": "183-193",
+        "totalNum": "436.01-539.82",
+        "msg": "处理量增加10,用电量增加103.81",
+        "abnormalType": "4",
+        "siteName": "何桥镇何桥村何桥村"
+    },
+    {
+        "custNo": "3203003944360",
+        "yearNum": "2023",
+        "dataRange": "9月",
+        "dealNum": "3.60",
+        "totalNum": "0.35",
+        "msg": "平均日处理量:3.60,平均日用电量:0.35,9月1日-9月30日平均日用电量0.35",
+        "abnormalType": "1",
+        "siteName": "伊庄镇路山村路山"
+    },
+    {
+        "custNo": "3203075842870",
+        "yearNum": "2023",
+        "dataRange": "8月",
+        "dealNum": "30",
+        "totalNum": "96.50",
+        "msg": "设计处理量:30m³/d,处理量率:96.50%,达到设计处理量90%以上",
+        "abnormalType": "7",
+        "siteName": "郑集镇前鹿楼村前鹿楼村西"
+    },
+    {
+        "custNo": "3203003982869",
+        "yearNum": "2023",
+        "dataRange": "8月",
+        "dealNum": "1.13",
+        "totalNum": "2.66",
+        "msg": "平均日处理量:1.13,平均日用电量:2.66,8月1日-8月28日平均日用电量0.36",
+        "abnormalType": "1",
+        "siteName": "茅村镇洞山村洞山"
+    },
+    {
+        "custNo": "3203006275452",
+        "yearNum": "2023",
+        "dataRange": "8月",
+        "dealNum": "18.55",
+        "totalNum": "11.50",
+        "msg": "平均日处理量:18.55,平均日用电量:11.50,8月1日-8月9日零用电量",
+        "abnormalType": "3",
+        "siteName": "茅村镇赵庄村李庄"
+    },
+    {
+        "custNo": "3203004195698",
+        "yearNum": "2023",
+        "dataRange": "8月",
+        "dealNum": "14.74",
+        "totalNum": "5.45",
+        "msg": "平均日处理量:14.74,平均日用电量:5.45,8月1日-8月8日平均日用电量0.36",
+        "abnormalType": "3",
+        "siteName": "棠张镇冯楼村冯楼"
+    },
+    {
+        "custNo": "3203070235673",
+        "yearNum": "2023",
+        "dataRange": "8月",
+        "dealNum": "6.84",
+        "totalNum": "6.88",
+        "msg": "平均日处理量:6.84,平均日用电量:6.88,8月20日-8月31日平均日用电量0.28",
+        "abnormalType": "1",
+        "siteName": "棠张镇高庄村高庄"
+    },
+    {
+        "custNo": "3203079603243",
+        "yearNum": "2023",
+        "dataRange": "8月",
+        "dealNum": "6.87",
+        "totalNum": "5.88",
+        "msg": "平均日处理量:6.87,平均日用电量:5.88,8月1日-8月9日平均日用电量0.41",
+        "abnormalType": "1",
+        "siteName": "棠张镇刘庄村刘庄村"
+    },
+    {
+        "custNo": "3203003762913",
+        "yearNum": "2023",
+        "dataRange": "8月",
+        "dealNum": "9.03",
+        "totalNum": "9.01",
+        "msg": "平均日处理量:9.03,平均日用电量:9.01,8月10日-8月20日平均日用电量1.06",
+        "abnormalType": "3",
+        "siteName": "柳泉镇西堡村西堡"
+    },
+    {
+        "custNo": "3203006221666",
+        "yearNum": "2023",
+        "dataRange": "8月",
+        "dealNum": "18.00",
+        "totalNum": "23.55",
+        "msg": "平均日处理量:18.00,平均日用电量:23.55,8月23日-8月31日平均日用电量0.05",
+        "abnormalType": "3",
+        "siteName": "柳泉镇西马村西马"
+    },
+    {
+        "custNo": "3203006264551",
+        "yearNum": "2023",
+        "dataRange": "8月",
+        "dealNum": "6.16",
+        "totalNum": "12.37",
+        "msg": "平均日处理量:6.16,平均日用电量:12.37,8月12日用电量144.02",
+        "abnormalType": "2",
+        "siteName": "柳泉镇套里村祖套"
+    },
+    {
+        "custNo": "3203006269752",
+        "yearNum": "2023",
+        "dataRange": "8月",
+        "dealNum": "13.52",
+        "totalNum": "6.38",
+        "msg": "平均日处理量:13.52,平均日用电量:6.38,8月13日-8月25日平均日用电量0.08",
+        "abnormalType": "3",
+        "siteName": "柳泉镇大冯村山西杨"
+    },
+    {
+        "custNo": "3203070256394",
+        "yearNum": "2023",
+        "dataRange": "8月",
+        "dealNum": "20",
+        "totalNum": "91.50",
+        "msg": "设计处理量:20m³/d,处理量率:91.50%,达到设计处理量90%以上",
+        "abnormalType": "7",
+        "siteName": "房村镇尚王村韩庄"
+    },
+    {
+        "custNo": "3203079176375",
+        "yearNum": "2023",
+        "dataRange": "8月",
+        "dealNum": "4.35",
+        "totalNum": "1.75",
+        "msg": "平均日处理量:4.35,平均日用电量:1.75,8月1日-8月22日零用电量",
+        "abnormalType": "1",
+        "siteName": "房村镇西王村前王村"
+    },
+    {
+        "custNo": "3203004200902",
+        "yearNum": "2023",
+        "dataRange": "8月",
+        "dealNum": "6.03",
+        "totalNum": "1.78",
+        "msg": "平均日处理量:6.03,平均日用电量:1.78,8月1日-8月8日平均日用电量0.25;8月17日-8月25日平均日用电量0.29",
+        "abnormalType": "1",
+        "siteName": "张集镇店东村店东西"
+    },
+    {
+        "custNo": "3203003773352",
+        "yearNum": "2023",
+        "dataRange": "8月",
+        "dealNum": "0.61",
+        "totalNum": "0.16",
+        "msg": "平均日处理量:0.61,平均日用电量:0.16,8月1日-8月31日平均日用电量0.16",
+        "abnormalType": "1",
+        "siteName": "大许镇太山村吴庄"
+    },
+    {
+        "custNo": "3203006159618",
+        "yearNum": "2023",
+        "dataRange": "8月",
+        "dealNum": "20",
+        "totalNum": "119.50",
+        "msg": "设计处理量:20m³/d,处理量率:119.50%,超过设计处理量",
+        "abnormalType": "7",
+        "siteName": "大彭镇雁群村贾楼村"
+    },
+    {
+        "custNo": "3203003704556",
+        "yearNum": "2023",
+        "dataRange": "8月",
+        "dealNum": "1.48",
+        "totalNum": "12.69",
+        "msg": "平均日处理量:1.48,平均日用电量:12.69,8月4日-8月31日平均日用电量1.13",
+        "abnormalType": "1",
+        "siteName": "利国镇黄山村黄山"
+    },
+    {
+        "custNo": "3203003704556",
+        "yearNum": "2023",
+        "dataRange": "8月",
+        "dealNum": "1.48",
+        "totalNum": "12.69",
+        "msg": "平均日处理量:1.48,平均日用电量:12.69,8月3日用电量180.99",
+        "abnormalType": "2",
+        "siteName": "利国镇黄山村黄山"
+    },
+    {
+        "custNo": "3208839560579",
+        "yearNum": "2023",
+        "dataRange": "8月",
+        "dealNum": "12.32",
+        "totalNum": "12.89",
+        "msg": "平均日处理量:12.32,平均日用电量:12.89,8月22日-8月31日平均日用电量2.16",
+        "abnormalType": "3",
+        "siteName": "刘集镇欣兴村郑新庄"
+    },
+    {
+        "custNo": "3203075842228",
+        "yearNum": "2023",
+        "dataRange": "8月",
+        "dealNum": "30",
+        "totalNum": "98.60",
+        "msg": "设计处理量:30m³/d,处理量率:98.60%,达到设计处理量90%以上",
+        "abnormalType": "7",
+        "siteName": "何桥镇付村村付村南"
+    },
+    {
+        "custNo": "3203003944229",
+        "yearNum": "2023",
+        "dataRange": "8月",
+        "dealNum": "7.97",
+        "totalNum": "4.25",
+        "msg": "平均日处理量:7.97,平均日用电量:4.25,8月5日-8月24日平均日用电量1.16",
+        "abnormalType": "1",
+        "siteName": "三堡街道新河村新何社区"
+    },
+    {
+        "custNo": "3208839208064",
+        "yearNum": "2023",
+        "dataRange": "7月",
+        "dealNum": "14.84",
+        "totalNum": "9.21",
+        "msg": "平均日处理量:14.84,平均日用电量:9.21,7月9日-7月27日平均日用电量0.37",
+        "abnormalType": "3",
+        "siteName": "黄集镇传楼村城里庄"
+    },
+    {
+        "custNo": "3208839208064",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "460-450",
+        "totalNum": "285.64-532.33",
+        "msg": "处理量减少10,用电量增加246.69",
+        "abnormalType": "5",
+        "siteName": "黄集镇传楼村城里庄"
+    },
+    {
+        "custNo": "3208839208068",
+        "yearNum": "2023",
+        "dataRange": "7月",
+        "dealNum": "23.23",
+        "totalNum": "5.75",
+        "msg": "平均日处理量:23.23,平均日用电量:5.75,7月6日-7月25日平均日用电量0.45",
+        "abnormalType": "3",
+        "siteName": "黄集镇三座楼孟楼村"
+    },
+    {
+        "custNo": "3208839208068",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "720-701",
+        "totalNum": "178.14-468.87",
+        "msg": "处理量减少19,用电量增加290.73",
+        "abnormalType": "5",
+        "siteName": "黄集镇三座楼孟楼村"
+    },
+    {
+        "custNo": "3203004489684",
+        "yearNum": "2023",
+        "dataRange": "7月",
+        "dealNum": "5.19",
+        "totalNum": "12.54",
+        "msg": "平均日处理量:5.19,平均日用电量:12.54,7月15日-7月24日平均日用电量0.27",
+        "abnormalType": "1",
+        "siteName": "马坡镇拾段村河涯村"
+    },
+    {
+        "custNo": "3203003764474",
+        "yearNum": "2023",
+        "dataRange": "7月",
+        "dealNum": "5.65",
+        "totalNum": "2.13",
+        "msg": "平均日处理量:5.65,平均日用电量:2.13,7月1日-7月14日零用电量",
+        "abnormalType": "1",
+        "siteName": "茅村镇梅庄村梅庄"
+    },
+    {
+        "custNo": "3203003982869",
+        "yearNum": "2023",
+        "dataRange": "7月",
+        "dealNum": "1.61",
+        "totalNum": "0.36",
+        "msg": "平均日处理量:1.61,平均日用电量:0.36,7月1日-7月31日平均日用电量0.36",
+        "abnormalType": "1",
+        "siteName": "茅村镇洞山村洞山"
+    },
+    {
+        "custNo": "3203006263644",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "389-396",
+        "totalNum": "902.73-707.75",
+        "msg": "处理量增加7,用电量减少194.98",
+        "abnormalType": "6",
+        "siteName": "茅村镇小张家村里瓦房"
+    },
+    {
+        "custNo": "3203006264604",
+        "yearNum": "2023",
+        "dataRange": "7月",
+        "dealNum": "9.84",
+        "totalNum": "10.95",
+        "msg": "平均日处理量:9.84,平均日用电量:10.95,7月6日-7月13日平均日用电量0.38",
+        "abnormalType": "3",
+        "siteName": "茅村镇小张家村王宅子"
+    },
+    {
+        "custNo": "3203006273462",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "1205-1225",
+        "totalNum": "1110.59-858.37",
+        "msg": "处理量增加20,用电量减少252.22",
+        "abnormalType": "6",
+        "siteName": "茅村镇赵庄村赵庄"
+    },
+    {
+        "custNo": "3203006275452",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "583-575",
+        "totalNum": "1304.57-356.40",
+        "msg": "处理量减少8,用电量减少948.17",
+        "abnormalType": "4",
+        "siteName": "茅村镇赵庄村李庄"
+    },
+    {
+        "custNo": "3203006276540",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "450-419",
+        "totalNum": "1365.18-1013.65",
+        "msg": "处理量减少31,用电量减少351.53",
+        "abnormalType": "4",
+        "siteName": "茅村镇龙庄村大山东"
+    },
+    {
+        "custNo": "3203077807769",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "320-338",
+        "totalNum": "906.26-632.40",
+        "msg": "处理量增加18,用电量减少273.86",
+        "abnormalType": "6",
+        "siteName": "汉王镇东沿村项庄（东沿北）"
+    },
+    {
+        "custNo": "3203077840103",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "389-415",
+        "totalNum": "991.93-502.42",
+        "msg": "处理量增加26,用电量减少489.51",
+        "abnormalType": "6",
+        "siteName": "汉王镇赵山村赵山"
+    },
+    {
+        "custNo": "3203079601752",
+        "yearNum": "2023",
+        "dataRange": "7月",
+        "dealNum": "3.68",
+        "totalNum": "4.89",
+        "msg": "平均日处理量:3.68,平均日用电量:4.89,7月10日-7月19日平均日用电量0.28",
+        "abnormalType": "1",
+        "siteName": "棠张镇河东村河东村"
+    },
+    {
+        "custNo": "3203079603243",
+        "yearNum": "2023",
+        "dataRange": "7月",
+        "dealNum": "7.29",
+        "totalNum": "8.54",
+        "msg": "平均日处理量:7.29,平均日用电量:8.54,7月15日-7月31日平均日用电量0.41",
+        "abnormalType": "1",
+        "siteName": "棠张镇刘庄村刘庄村"
+    },
+    {
+        "custNo": "3203003762913",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "286-280",
+        "totalNum": "558.16-279.24",
+        "msg": "处理量减少6,用电量减少278.92",
+        "abnormalType": "4",
+        "siteName": "柳泉镇西堡村西堡"
+    },
+    {
+        "custNo": "3203003764649",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "62-56",
+        "totalNum": "319.16-212.55",
+        "msg": "处理量减少6,用电量减少106.61",
+        "abnormalType": "4",
+        "siteName": "柳泉镇八丁村八丁"
+    },
+    {
+        "custNo": "3203006221666",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "560-558",
+        "totalNum": "856.55-730.11",
+        "msg": "处理量减少2,用电量减少126.44",
+        "abnormalType": "4",
+        "siteName": "柳泉镇西马村西马"
+    },
+    {
+        "custNo": "3203006230461",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "446-462",
+        "totalNum": "1072.92-628.57",
+        "msg": "处理量增加16,用电量减少444.35",
+        "abnormalType": "6",
+        "siteName": "柳泉镇王林村王林"
+    },
+    {
+        "custNo": "3203006230469",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "435-428",
+        "totalNum": "549.74-322.58",
+        "msg": "处理量减少7,用电量减少227.16",
+        "abnormalType": "4",
+        "siteName": "柳泉镇西马村石佛山"
+    },
+    {
+        "custNo": "3203006238098",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "491-487",
+        "totalNum": "774.73-607.98",
+        "msg": "处理量减少4,用电量减少166.75",
+        "abnormalType": "4",
+        "siteName": "柳泉镇西马村周山头"
+    },
+    {
+        "custNo": "3203006238224",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "405-410",
+        "totalNum": "616.76-487.39",
+        "msg": "处理量增加5,用电量减少129.37",
+        "abnormalType": "6",
+        "siteName": "柳泉镇西象村宋店东"
+    },
+    {
+        "custNo": "3203006243256",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "321-309",
+        "totalNum": "679.37-1058.80",
+        "msg": "处理量减少12,用电量增加379.43",
+        "abnormalType": "5",
+        "siteName": "柳泉镇东蔡村前郑"
+    },
+    {
+        "custNo": "3203006264551",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "195-191",
+        "totalNum": "230.42-383.40",
+        "msg": "处理量减少4,用电量增加152.98",
+        "abnormalType": "5",
+        "siteName": "柳泉镇套里村祖套"
+    },
+    {
+        "custNo": "3203006269752",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "443-419",
+        "totalNum": "683.09-197.72",
+        "msg": "处理量减少24,用电量减少485.37",
+        "abnormalType": "4",
+        "siteName": "柳泉镇大冯村山西杨"
+    },
+    {
+        "custNo": "3203076140798",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "359-367",
+        "totalNum": "486.77-613.91",
+        "msg": "处理量增加8,用电量增加127.14",
+        "abnormalType": "4",
+        "siteName": "柳泉镇官路村东官路"
+    },
+    {
+        "custNo": "3203070394177",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "647-649",
+        "totalNum": "926.54-802.61",
+        "msg": "处理量增加2,用电量减少123.93",
+        "abnormalType": "6",
+        "siteName": "房村镇郭集村郭集村"
+    },
+    {
+        "custNo": "3203079176375",
+        "yearNum": "2023",
+        "dataRange": "7月",
+        "dealNum": "4.65",
+        "totalNum": "2.45",
+        "msg": "平均日处理量:4.65,平均日用电量:2.45,7月13日-7月31日零用电量",
+        "abnormalType": "1",
+        "siteName": "房村镇西王村前王村"
+    },
+    {
+        "custNo": "3203077788517",
+        "yearNum": "2023",
+        "dataRange": "7月",
+        "dealNum": "14.29",
+        "totalNum": "0.36",
+        "msg": "平均日处理量:14.29,平均日用电量:0.36,7月1日-7月31日平均日用电量0.36",
+        "abnormalType": "3",
+        "siteName": "张集镇李村村陈楼"
+    },
+    {
+        "custNo": "3203078151415",
+        "yearNum": "2023",
+        "dataRange": "7月",
+        "dealNum": "20",
+        "totalNum": "91.80",
+        "msg": "设计处理量:20m³/d,处理量率:91.80%,达到设计处理量90%以上",
+        "abnormalType": "7",
+        "siteName": "张集镇城头村苗窝"
+    },
+    {
+        "custNo": "3203003773352",
+        "yearNum": "2023",
+        "dataRange": "7月",
+        "dealNum": "0.90",
+        "totalNum": "0.40",
+        "msg": "平均日处理量:0.90,平均日用电量:0.40,7月1日-7月31日平均日用电量0.40",
+        "abnormalType": "1",
+        "siteName": "大许镇太山村吴庄"
+    },
+    {
+        "custNo": "3203003985852",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "183-182",
+        "totalNum": "347.96-866.30",
+        "msg": "处理量减少1,用电量增加518.34",
+        "abnormalType": "5",
+        "siteName": "大许镇坂桥村板桥"
+    },
+    {
+        "custNo": "3203003987422",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "86-93",
+        "totalNum": "632.93-1021.77",
+        "msg": "处理量增加7,用电量增加388.84",
+        "abnormalType": "4",
+        "siteName": "大许镇大吴村大吴"
+    },
+    {
+        "custNo": "3203006263653",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "329-317",
+        "totalNum": "783.72-655.43",
+        "msg": "处理量减少12,用电量减少128.29",
+        "abnormalType": "4",
+        "siteName": "大许镇郑庙村后刘"
+    },
+    {
+        "custNo": "3203006267831",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "264-275",
+        "totalNum": "538.74-426.91",
+        "msg": "处理量增加11,用电量减少111.83",
+        "abnormalType": "6",
+        "siteName": "大许镇沙庄村魏家"
+    },
+    {
+        "custNo": "3203006271573",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "303-312",
+        "totalNum": "1185.83-1509.16",
+        "msg": "处理量增加9,用电量增加323.33",
+        "abnormalType": "4",
+        "siteName": "大许镇大吴村沟上"
+    },
+    {
+        "custNo": "3203006274543",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "501-488",
+        "totalNum": "889.51-708.10",
+        "msg": "处理量减少13,用电量减少181.41",
+        "abnormalType": "4",
+        "siteName": "大许镇沙庄村小沙庄"
+    },
+    {
+        "custNo": "3203006277312",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "347-338",
+        "totalNum": "678.89-503.70",
+        "msg": "处理量减少9,用电量减少175.19",
+        "abnormalType": "4",
+        "siteName": "大许镇小墩村后柳"
+    },
+    {
+        "custNo": "3203006279107",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "261-246",
+        "totalNum": "465.02-660.28",
+        "msg": "处理量减少15,用电量增加195.26",
+        "abnormalType": "5",
+        "siteName": "大许镇刘鹿村刘鹿"
+    },
+    {
+        "custNo": "3203006280088",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "336-324",
+        "totalNum": "612.55-782.44",
+        "msg": "处理量减少12,用电量增加169.89",
+        "abnormalType": "5",
+        "siteName": "大许镇小墩村中柳"
+    },
+    {
+        "custNo": "3203077167708",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "275-283",
+        "totalNum": "1022.12-889.97",
+        "msg": "处理量增加8,用电量减少132.15",
+        "abnormalType": "6",
+        "siteName": "大许镇后王村后王"
+    },
+    {
+        "custNo": "3203077745721",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "210-228",
+        "totalNum": "1117.01-371.63",
+        "msg": "处理量增加18,用电量减少745.38",
+        "abnormalType": "6",
+        "siteName": "大许镇东探村桃园"
+    },
+    {
+        "custNo": "3203006159618",
+        "yearNum": "2023",
+        "dataRange": "7月",
+        "dealNum": "20",
+        "totalNum": "114.20",
+        "msg": "设计处理量:20m³/d,处理量率:114.20%,超过设计处理量",
+        "abnormalType": "7",
+        "siteName": "大彭镇雁群村贾楼村"
+    },
+    {
+        "custNo": "3203070376262",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "244-235",
+        "totalNum": "952.14-609.74",
+        "msg": "处理量减少9,用电量减少342.40",
+        "abnormalType": "4",
+        "siteName": "单集镇詹湖村西耿集路南"
+    },
+    {
+        "custNo": "3203070444800",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "537-538",
+        "totalNum": "742.89-939.37",
+        "msg": "处理量增加1,用电量增加196.48",
+        "abnormalType": "4",
+        "siteName": "单集镇闫庄村闫庄村"
+    },
+    {
+        "custNo": "3203079181863",
+        "yearNum": "2023",
+        "dataRange": "7月",
+        "dealNum": "18.39",
+        "totalNum": "0.91",
+        "msg": "平均日处理量:18.39,平均日用电量:0.91,7月14日-7月31日平均日用电量0.11",
+        "abnormalType": "3",
+        "siteName": "单集镇庙山村新庙山"
+    },
+    {
+        "custNo": "3203003704556",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "59-46",
+        "totalNum": "602.42-393.28",
+        "msg": "处理量减少13,用电量减少209.14",
+        "abnormalType": "4",
+        "siteName": "利国镇黄山村黄山"
+    },
+    {
+        "custNo": "3203006221633",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "235-242",
+        "totalNum": "318.42-50.10",
+        "msg": "处理量增加7,用电量减少268.32",
+        "abnormalType": "6",
+        "siteName": "利国镇吴庄村义和"
+    },
+    {
+        "custNo": "3203006223579",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "462-443",
+        "totalNum": "733.93-484.57",
+        "msg": "处理量减少19,用电量减少249.36",
+        "abnormalType": "4",
+        "siteName": "利国镇吴庄村陈庄、殷庄、小楼子"
+    },
+    {
+        "custNo": "3203006232572",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "361-350",
+        "totalNum": "937.56-827.40",
+        "msg": "处理量减少11,用电量减少110.16",
+        "abnormalType": "4",
+        "siteName": "利国镇厉湾村小厉湾"
+    },
+    {
+        "custNo": "3203006237223",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "451-465",
+        "totalNum": "509.95-701.81",
+        "msg": "处理量增加14,用电量增加191.86",
+        "abnormalType": "4",
+        "siteName": "利国镇西李村前石楼"
+    },
+    {
+        "custNo": "3203077173044",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "292-305",
+        "totalNum": "324.85-486.90",
+        "msg": "处理量增加13,用电量增加162.05",
+        "abnormalType": "4",
+        "siteName": "利国镇谭家村谭家"
+    },
+    {
+        "custNo": "3203003944360",
+        "yearNum": "2023",
+        "dataRange": "7月",
+        "dealNum": "4.10",
+        "totalNum": "3.17",
+        "msg": "平均日处理量:4.10,平均日用电量:3.17,7月24日-7月31日平均日用电量0.48",
+        "abnormalType": "1",
+        "siteName": "伊庄镇路山村路山"
+    },
+    {
+        "custNo": "3203070256409",
+        "yearNum": "2023",
+        "dataRange": "7月",
+        "dealNum": "16.16",
+        "totalNum": "18.47",
+        "msg": "平均日处理量:16.16,平均日用电量:18.47,7月8日-7月16日平均日用电量1.12",
+        "abnormalType": "3",
+        "siteName": "伊庄镇烈庄村烈庄"
+    },
+    {
+        "custNo": "3203070376269",
+        "yearNum": "2023",
+        "dataRange": "7月",
+        "dealNum": "7.68",
+        "totalNum": "14.95",
+        "msg": "平均日处理量:7.68,平均日用电量:14.95,7月24日-7月31日零用电量",
+        "abnormalType": "1",
+        "siteName": "伊庄镇牛楼村牛楼"
+    },
+    {
+        "custNo": "3203003944229",
+        "yearNum": "2023",
+        "dataRange": "7月-8月",
+        "dealNum": "258-247",
+        "totalNum": "524.25-131.86",
+        "msg": "处理量减少11,用电量减少392.39",
+        "abnormalType": "4",
+        "siteName": "三堡街道新河村新何社区"
+    },
+    {
+        "custNo": "3208839208068",
+        "yearNum": "2023",
+        "dataRange": "6月",
+        "dealNum": "5.40",
+        "totalNum": "11.17",
+        "msg": "平均日处理量:5.40,平均日用电量:11.17,6月17日-6月29日平均日用电量0.59",
+        "abnormalType": "1",
+        "siteName": "黄集镇三座楼孟楼村"
+    },
+    {
+        "custNo": "3208839536269",
+        "yearNum": "2023",
+        "dataRange": "6月",
+        "dealNum": "5.13",
+        "totalNum": "4.36",
+        "msg": "平均日处理量:5.13,平均日用电量:4.36,6月8日-6月15日零用电量",
+        "abnormalType": "1",
+        "siteName": "黄集镇郓城村城北村"
+    },
+    {
+        "custNo": "3203003764474",
+        "yearNum": "2023",
+        "dataRange": "6月",
+        "dealNum": "5.07",
+        "totalNum": "1.22",
+        "msg": "平均日处理量:5.07,平均日用电量:1.22,6月6日-6月13日平均日用电量0.05",
+        "abnormalType": "1",
+        "siteName": "茅村镇梅庄村梅庄"
+    },
+    {
+        "custNo": "3203003982869",
+        "yearNum": "2023",
+        "dataRange": "6月",
+        "dealNum": "1.73",
+        "totalNum": "0.35",
+        "msg": "平均日处理量:1.73,平均日用电量:0.35,6月1日-6月30日平均日用电量0.35",
+        "abnormalType": "1",
+        "siteName": "茅村镇洞山村洞山"
+    },
+    {
+        "custNo": "3203006276552",
+        "yearNum": "2023",
+        "dataRange": "6月",
+        "dealNum": "6.40",
+        "totalNum": "5.84",
+        "msg": "平均日处理量:6.40,平均日用电量:5.84,6月1日-6月20日平均日用电量0.26",
+        "abnormalType": "1",
+        "siteName": "茅村镇任庄村任庄（叶台聚兴庄）"
+    },
+    {
+        "custNo": "3203006276552",
+        "yearNum": "2023",
+        "dataRange": "6月-7月",
+        "dealNum": "192-211",
+        "totalNum": "175.14-635.63",
+        "msg": "处理量增加19,用电量增加460.49",
+        "abnormalType": "4",
+        "siteName": "茅村镇任庄村任庄（叶台聚兴庄）"
+    },
+    {
+        "custNo": "3203006280131",
+        "yearNum": "2023",
+        "dataRange": "6月",
+        "dealNum": "6.83",
+        "totalNum": "5.92",
+        "msg": "平均日处理量:6.83,平均日用电量:5.92,6月1日-6月19日平均日用电量0.37",
+        "abnormalType": "1",
+        "siteName": "茅村镇班山村班山"
+    },
+    {
+        "custNo": "3203004200902",
+        "yearNum": "2023",
+        "dataRange": "6月",
+        "dealNum": "10.50",
+        "totalNum": "7.40",
+        "msg": "平均日处理量:10.50,平均日用电量:7.40,6月15日-6月24日平均日用电量0.24",
+        "abnormalType": "3",
+        "siteName": "张集镇店东村店东西"
+    },
+    {
+        "custNo": "3203077788517",
+        "yearNum": "2023",
+        "dataRange": "6月",
+        "dealNum": "13.50",
+        "totalNum": "0.35",
+        "msg": "平均日处理量:13.50,平均日用电量:0.35,6月1日-6月30日平均日用电量0.35",
+        "abnormalType": "3",
+        "siteName": "张集镇李村村陈楼"
+    },
+    {
+        "custNo": "3203078151415",
+        "yearNum": "2023",
+        "dataRange": "6月",
+        "dealNum": "20",
+        "totalNum": "102.50",
+        "msg": "设计处理量:20m³/d,处理量率:102.50%,超过设计处理量",
+        "abnormalType": "7",
+        "siteName": "张集镇城头村苗窝"
+    },
+    {
+        "custNo": "3203003939508",
+        "yearNum": "2023",
+        "dataRange": "6月",
+        "dealNum": "12.17",
+        "totalNum": "8.20",
+        "msg": "平均日处理量:12.17,平均日用电量:8.20,6月11日-6月24日平均日用电量1.17",
+        "abnormalType": "3",
+        "siteName": "单集镇邢楼村邢楼"
+    },
+    {
+        "custNo": "3203079181863",
+        "yearNum": "2023",
+        "dataRange": "6月",
+        "dealNum": "17.33",
+        "totalNum": "0.78",
+        "msg": "平均日处理量:17.33,平均日用电量:0.78,6月1日-6月18日平均日用电量0.23",
+        "abnormalType": "3",
+        "siteName": "单集镇庙山村新庙山"
+    },
+    {
+        "custNo": "3203006234718",
+        "yearNum": "2023",
+        "dataRange": "6月",
+        "dealNum": "9.73",
+        "totalNum": "28.05",
+        "msg": "平均日处理量:9.73,平均日用电量:28.05,6月23日用电量155.88",
+        "abnormalType": "2",
+        "siteName": "利国镇黄山村厉家"
+    },
+    {
+        "custNo": "3203077826242",
+        "yearNum": "2023",
+        "dataRange": "6月-7月",
+        "dealNum": "321-345",
+        "totalNum": "222.35-720.34",
+        "msg": "处理量增加24,用电量增加497.99",
+        "abnormalType": "4",
+        "siteName": "利国镇吴庄村吴庄（小韩庄）"
+    },
+    {
+        "custNo": "3203077845576",
+        "yearNum": "2023",
+        "dataRange": "6月-7月",
+        "dealNum": "532-546",
+        "totalNum": "1060.43-1268.15",
+        "msg": "处理量增加14,用电量增加207.72",
+        "abnormalType": "4",
+        "siteName": "利国镇万庄村万庄"
+    },
+    {
+        "custNo": "3203080938054",
+        "yearNum": "2023",
+        "dataRange": "6月",
+        "dealNum": "7.30",
+        "totalNum": "0.00",
+        "msg": "平均日处理量:7.30,平均日用电量:0.00,6月1日-6月30日零用电量",
+        "abnormalType": "1",
+        "siteName": "何桥镇付村村卜庄村"
+    },
+    {
+        "custNo": "3203003944229",
+        "yearNum": "2023",
+        "dataRange": "6月",
+        "dealNum": "7.43",
+        "totalNum": "10.49",
+        "msg": "平均日处理量:7.43,平均日用电量:10.49,6月7日-6月18日平均日用电量1.17",
+        "abnormalType": "1",
+        "siteName": "三堡街道新河村新何社区"
+    },
+    {
+        "custNo": "3203006149854",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "542-549",
+        "totalNum": "832.25-695.73",
+        "msg": "处理量增加7,用电量减少136.52",
+        "abnormalType": "6",
+        "siteName": "黄集镇聂楼村孙夏王庄"
+    },
+    {
+        "custNo": "3208839536305",
+        "yearNum": "2023",
+        "dataRange": "5月",
+        "dealNum": "3.97",
+        "totalNum": "6.98",
+        "msg": "平均日处理量:3.97,平均日用电量:6.98,5月22日-5月30日平均日用电量0.15",
+        "abnormalType": "1",
+        "siteName": "黄集镇金楼村杜楼村"
+    },
+    {
+        "custNo": "3203004488457",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "218-216",
+        "totalNum": "1072.74-607.44",
+        "msg": "处理量减少2,用电量减少465.30",
+        "abnormalType": "4",
+        "siteName": "马坡镇大新庄村秦水口"
+    },
+    {
+        "custNo": "3203006157414",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "170-177",
+        "totalNum": "723.21-444.36",
+        "msg": "处理量增加7,用电量减少278.85",
+        "abnormalType": "6",
+        "siteName": "马坡镇丁集村赵段村西"
+    },
+    {
+        "custNo": "3208839223227",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "318-326",
+        "totalNum": "797.95-901.29",
+        "msg": "处理量增加8,用电量增加103.34",
+        "abnormalType": "4",
+        "siteName": "马坡镇前八段前八段"
+    },
+    {
+        "custNo": "3203003982869",
+        "yearNum": "2023",
+        "dataRange": "5月",
+        "dealNum": "1.39",
+        "totalNum": "0.36",
+        "msg": "平均日处理量:1.39,平均日用电量:0.36,5月1日-5月31日平均日用电量0.36",
+        "abnormalType": "1",
+        "siteName": "茅村镇洞山村洞山"
+    },
+    {
+        "custNo": "3203006263644",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "356-368",
+        "totalNum": "863.96-682.07",
+        "msg": "处理量增加12,用电量减少181.89",
+        "abnormalType": "6",
+        "siteName": "茅村镇小张家村里瓦房"
+    },
+    {
+        "custNo": "3203006276552",
+        "yearNum": "2023",
+        "dataRange": "5月",
+        "dealNum": "5.10",
+        "totalNum": "13.63",
+        "msg": "平均日处理量:5.10,平均日用电量:13.63,5月19日-5月31日平均日用电量0.33",
+        "abnormalType": "1",
+        "siteName": "茅村镇任庄村任庄（叶台聚兴庄）"
+    },
+    {
+        "custNo": "3203006280131",
+        "yearNum": "2023",
+        "dataRange": "5月",
+        "dealNum": "1.61",
+        "totalNum": "0.37",
+        "msg": "平均日处理量:1.61,平均日用电量:0.37,5月1日-5月31日平均日用电量0.37",
+        "abnormalType": "1",
+        "siteName": "茅村镇班山村班山"
+    },
+    {
+        "custNo": "3203070093777",
+        "yearNum": "2023",
+        "dataRange": "5月",
+        "dealNum": "7.68",
+        "totalNum": "3.06",
+        "msg": "平均日处理量:7.68,平均日用电量:3.06,5月5日-5月14日零用电量;5月17日-5月27日平均日用电量0.94",
+        "abnormalType": "1",
+        "siteName": "茅村镇班山村季山"
+    },
+    {
+        "custNo": "3203070093777",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "238-265",
+        "totalNum": "94.84-436.91",
+        "msg": "处理量增加27,用电量增加342.07",
+        "abnormalType": "4",
+        "siteName": "茅村镇班山村季山"
+    },
+    {
+        "custNo": "3203080882842",
+        "yearNum": "2023",
+        "dataRange": "5月",
+        "dealNum": "2.19",
+        "totalNum": "0.00",
+        "msg": "平均日处理量:2.19,平均日用电量:0.00,5月1日-5月31日零用电量",
+        "abnormalType": "1",
+        "siteName": "沿湖街道种牛场先锋村"
+    },
+    {
+        "custNo": "3203003951272",
+        "yearNum": "2023",
+        "dataRange": "5月",
+        "dealNum": "6.71",
+        "totalNum": "4.32",
+        "msg": "平均日处理量:6.71,平均日用电量:4.32,5月20日-5月31日平均日用电量0.31",
+        "abnormalType": "1",
+        "siteName": "棠张镇铁营村铁营村"
+    },
+    {
+        "custNo": "3203070246088",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "532-534",
+        "totalNum": "1866.16-1737.66",
+        "msg": "处理量增加2,用电量减少128.50",
+        "abnormalType": "6",
+        "siteName": "棠张镇刘塘村刘塘"
+    },
+    {
+        "custNo": "3203070257440",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "617-629",
+        "totalNum": "1149.62-881.61",
+        "msg": "处理量增加12,用电量减少268.01",
+        "abnormalType": "6",
+        "siteName": "棠张镇大夏湖村大夏湖"
+    },
+    {
+        "custNo": "3203003762913",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "231-257",
+        "totalNum": "846.06-491.88",
+        "msg": "处理量增加26,用电量减少354.18",
+        "abnormalType": "6",
+        "siteName": "柳泉镇西堡村西堡"
+    },
+    {
+        "custNo": "3203003769634",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "36-35",
+        "totalNum": "294.73-40.08",
+        "msg": "处理量减少1,用电量减少254.65",
+        "abnormalType": "4",
+        "siteName": "柳泉镇王林村城子"
+    },
+    {
+        "custNo": "3203006238098",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "462-478",
+        "totalNum": "662.57-842.63",
+        "msg": "处理量增加16,用电量增加180.06",
+        "abnormalType": "4",
+        "siteName": "柳泉镇西马村周山头"
+    },
+    {
+        "custNo": "3203006242248",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "497-506",
+        "totalNum": "505.72-609.61",
+        "msg": "处理量增加9,用电量增加103.89",
+        "abnormalType": "4",
+        "siteName": "柳泉镇西马村南马"
+    },
+    {
+        "custNo": "3203006243256",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "291-302",
+        "totalNum": "877.80-701.48",
+        "msg": "处理量增加11,用电量减少176.32",
+        "abnormalType": "6",
+        "siteName": "柳泉镇东蔡村前郑"
+    },
+    {
+        "custNo": "3203070256394",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "338-342",
+        "totalNum": "278.98-387.61",
+        "msg": "处理量增加4,用电量增加108.63",
+        "abnormalType": "4",
+        "siteName": "房村镇尚王村韩庄"
+    },
+    {
+        "custNo": "3203070356239",
+        "yearNum": "2023",
+        "dataRange": "5月",
+        "dealNum": "15.58",
+        "totalNum": "11.58",
+        "msg": "平均日处理量:15.58,平均日用电量:11.58,5月21日-5月31日平均日用电量0.39",
+        "abnormalType": "3",
+        "siteName": "房村镇房村村中桥东"
+    },
+    {
+        "custNo": "3203070365262",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "647-650",
+        "totalNum": "1250.21-1125.37",
+        "msg": "处理量增加3,用电量减少124.84",
+        "abnormalType": "6",
+        "siteName": "房村镇鹿湾村黄盆村"
+    },
+    {
+        "custNo": "3203070461542",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "850-842",
+        "totalNum": "881.29-1039.91",
+        "msg": "处理量减少8,用电量增加158.62",
+        "abnormalType": "5",
+        "siteName": "房村镇薛楼村薛楼"
+    },
+    {
+        "custNo": "3203077272139",
+        "yearNum": "2023",
+        "dataRange": "5月",
+        "dealNum": "7.90",
+        "totalNum": "31.26",
+        "msg": "平均日处理量:7.90,平均日用电量:31.26,5月17日用电量103.25",
+        "abnormalType": "2",
+        "siteName": "房村镇周庙村仓屋（周庙）"
+    },
+    {
+        "custNo": "3203004204670",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "294-275",
+        "totalNum": "577.30-56.57",
+        "msg": "处理量减少19,用电量减少520.73",
+        "abnormalType": "4",
+        "siteName": "张集镇店东村店东东"
+    },
+    {
+        "custNo": "3203077788517",
+        "yearNum": "2023",
+        "dataRange": "5月",
+        "dealNum": "12.03",
+        "totalNum": "8.34",
+        "msg": "平均日处理量:12.03,平均日用电量:8.34,5月23日-5月31日平均日用电量0.49",
+        "abnormalType": "3",
+        "siteName": "张集镇李村村陈楼"
+    },
+    {
+        "custNo": "3203078151417",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "451-443",
+        "totalNum": "660.24-441.62",
+        "msg": "处理量减少8,用电量减少218.62",
+        "abnormalType": "4",
+        "siteName": "张集镇李村村李村"
+    },
+    {
+        "custNo": "3203003705588",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "85-93",
+        "totalNum": "94.27-560.53",
+        "msg": "处理量增加8,用电量增加466.26",
+        "abnormalType": "4",
+        "siteName": "大许镇房亭村房亭"
+    },
+    {
+        "custNo": "3203003770292",
+        "yearNum": "2023",
+        "dataRange": "5月",
+        "dealNum": "6.55",
+        "totalNum": "11.99",
+        "msg": "平均日处理量:6.55,平均日用电量:11.99,5月2日-5月9日平均日用电量0.20",
+        "abnormalType": "1",
+        "siteName": "大许镇梨园村梨园"
+    },
+    {
+        "custNo": "3203003985852",
+        "yearNum": "2023",
+        "dataRange": "5月",
+        "dealNum": "5.55",
+        "totalNum": "24.05",
+        "msg": "平均日处理量:5.55,平均日用电量:24.05,5月2日-5月9日平均日用电量0.35",
+        "abnormalType": "1",
+        "siteName": "大许镇坂桥村板桥"
+    },
+    {
+        "custNo": "3203003985852",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "172-156",
+        "totalNum": "745.49-946.47",
+        "msg": "处理量减少16,用电量增加200.98",
+        "abnormalType": "5",
+        "siteName": "大许镇坂桥村板桥"
+    },
+    {
+        "custNo": "3203003987422",
+        "yearNum": "2023",
+        "dataRange": "5月",
+        "dealNum": "1.10",
+        "totalNum": "5.02",
+        "msg": "平均日处理量:1.10,平均日用电量:5.02,5月1日-5月9日平均日用电量0.98",
+        "abnormalType": "1",
+        "siteName": "大许镇大吴村大吴"
+    },
+    {
+        "custNo": "3203006263653",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "264-280",
+        "totalNum": "543.05-762.20",
+        "msg": "处理量增加16,用电量增加219.15",
+        "abnormalType": "4",
+        "siteName": "大许镇郑庙村后刘"
+    },
+    {
+        "custNo": "3203006271573",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "281-286",
+        "totalNum": "1310.46-1046.15",
+        "msg": "处理量增加5,用电量减少264.31",
+        "abnormalType": "6",
+        "siteName": "大许镇大吴村沟上"
+    },
+    {
+        "custNo": "3203006272399",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "365-377",
+        "totalNum": "582.82-423.93",
+        "msg": "处理量增加12,用电量减少158.89",
+        "abnormalType": "6",
+        "siteName": "大许镇刘鹿村一条脊"
+    },
+    {
+        "custNo": "3203006274543",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "465-489",
+        "totalNum": "376.14-757.24",
+        "msg": "处理量增加24,用电量增加381.10",
+        "abnormalType": "4",
+        "siteName": "大许镇沙庄村小沙庄"
+    },
+    {
+        "custNo": "3203006277312",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "298-306",
+        "totalNum": "471.57-657.81",
+        "msg": "处理量增加8,用电量增加186.24",
+        "abnormalType": "4",
+        "siteName": "大许镇小墩村后柳"
+    },
+    {
+        "custNo": "3203006278758",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "2535-2571",
+        "totalNum": "2304.63-1878.35",
+        "msg": "处理量增加36,用电量减少426.28",
+        "abnormalType": "6",
+        "siteName": "大许镇太山村西太山"
+    },
+    {
+        "custNo": "3203006279107",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "251-242",
+        "totalNum": "445.76-241.47",
+        "msg": "处理量减少9,用电量减少204.29",
+        "abnormalType": "4",
+        "siteName": "大许镇刘鹿村刘鹿"
+    },
+    {
+        "custNo": "3203003947259",
+        "yearNum": "2023",
+        "dataRange": "5月",
+        "dealNum": "12.74",
+        "totalNum": "6.79",
+        "msg": "平均日处理量:12.74,平均日用电量:6.79,5月22日-5月30日平均日用电量1.22",
+        "abnormalType": "3",
+        "siteName": "单集镇詹湖村詹湖"
+    },
+    {
+        "custNo": "3203003947265",
+        "yearNum": "2023",
+        "dataRange": "5月",
+        "dealNum": "7.39",
+        "totalNum": "4.31",
+        "msg": "平均日处理量:7.39,平均日用电量:4.31,5月1日-5月8日平均日用电量0.39",
+        "abnormalType": "1",
+        "siteName": "单集镇庙山村庙山"
+    },
+    {
+        "custNo": "3203003947265",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "229-242",
+        "totalNum": "133.63-346.41",
+        "msg": "处理量增加13,用电量增加212.78",
+        "abnormalType": "4",
+        "siteName": "单集镇庙山村庙山"
+    },
+    {
+        "custNo": "3203079181863",
+        "yearNum": "2023",
+        "dataRange": "5月",
+        "dealNum": "17.32",
+        "totalNum": "1.41",
+        "msg": "平均日处理量:17.32,平均日用电量:1.41,5月1日-5月13日平均日用电量0.24;5月15日-5月27日平均日用电量0.47",
+        "abnormalType": "3",
+        "siteName": "单集镇庙山村新庙山"
+    },
+    {
+        "custNo": "3203079575626",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "187-179",
+        "totalNum": "247.46-376.90",
+        "msg": "处理量减少8,用电量增加129.44",
+        "abnormalType": "5",
+        "siteName": "单集镇黄集村黄集村"
+    },
+    {
+        "custNo": "3203080014911",
+        "yearNum": "2023",
+        "dataRange": "5月",
+        "dealNum": "8.87",
+        "totalNum": "6.10",
+        "msg": "平均日处理量:8.87,平均日用电量:6.10,5月1日-5月9日平均日用电量0.22",
+        "abnormalType": "3",
+        "siteName": "单集镇贺庄村吴桥村"
+    },
+    {
+        "custNo": "3203006223635",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "347-386",
+        "totalNum": "312.58-851.70",
+        "msg": "处理量增加39,用电量增加539.12",
+        "abnormalType": "4",
+        "siteName": "利国镇黄山村马家"
+    },
+    {
+        "custNo": "3203006232572",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "326-342",
+        "totalNum": "663.05-869.35",
+        "msg": "处理量增加16,用电量增加206.30",
+        "abnormalType": "4",
+        "siteName": "利国镇厉湾村小厉湾"
+    },
+    {
+        "custNo": "3203006238222",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "216-207",
+        "totalNum": "347.74-492.97",
+        "msg": "处理量减少9,用电量增加145.23",
+        "abnormalType": "5",
+        "siteName": "利国镇马元村祁庄东"
+    },
+    {
+        "custNo": "3203079704973",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "594-608",
+        "totalNum": "674.42-860.04",
+        "msg": "处理量增加14,用电量增加185.62",
+        "abnormalType": "4",
+        "siteName": "利国镇吴庄村吴庄大井"
+    },
+    {
+        "custNo": "3203080884184",
+        "yearNum": "2023",
+        "dataRange": "5月",
+        "dealNum": "3.97",
+        "totalNum": "0.00",
+        "msg": "平均日处理量:3.97,平均日用电量:0.00,5月1日-5月31日零用电量",
+        "abnormalType": "1",
+        "siteName": "刘集镇东梁庄村瓦房村"
+    },
+    {
+        "custNo": "3203070275792",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "353-365",
+        "totalNum": "664.53-431.96",
+        "msg": "处理量增加12,用电量减少232.57",
+        "abnormalType": "6",
+        "siteName": "伊庄镇白塔村白塔新"
+    },
+    {
+        "custNo": "3203003944229",
+        "yearNum": "2023",
+        "dataRange": "5月-6月",
+        "dealNum": "238-223",
+        "totalNum": "554.42-314.60",
+        "msg": "处理量减少15,用电量减少239.82",
+        "abnormalType": "4",
+        "siteName": "三堡街道新河村新何社区"
+    },
+    {
+        "custNo": "3208839536297",
+        "yearNum": "2023",
+        "dataRange": "4月",
+        "dealNum": "1.87",
+        "totalNum": "3.98",
+        "msg": "平均日处理量:1.87,平均日用电量:3.98,4月1日-4月14日平均日用电量0.48",
+        "abnormalType": "1",
+        "siteName": "黄集镇陈楼村钱楼村"
+    },
+    {
+        "custNo": "3203003764474",
+        "yearNum": "2023",
+        "dataRange": "4月",
+        "dealNum": "9.27",
+        "totalNum": "17.68",
+        "msg": "平均日处理量:9.27,平均日用电量:17.68,4月4日-4月12日平均日用电量0.77",
+        "abnormalType": "3",
+        "siteName": "茅村镇梅庄村梅庄"
+    },
+    {
+        "custNo": "3203080882842",
+        "yearNum": "2023",
+        "dataRange": "4月",
+        "dealNum": "4.47",
+        "totalNum": "0.00",
+        "msg": "平均日处理量:4.47,平均日用电量:0.00,4月1日-4月30日零用电量",
+        "abnormalType": "1",
+        "siteName": "沿湖街道种牛场先锋村"
+    },
+    {
+        "custNo": "3203003936284",
+        "yearNum": "2023",
+        "dataRange": "4月",
+        "dealNum": "2.47",
+        "totalNum": "2.67",
+        "msg": "平均日处理量:2.47,平均日用电量:2.67,4月1日-4月9日平均日用电量0.12",
+        "abnormalType": "1",
+        "siteName": "汉王镇班井村班井村"
+    },
+    {
+        "custNo": "3203070337300",
+        "yearNum": "2023",
+        "dataRange": "4月",
+        "dealNum": "95",
+        "totalNum": "105.00",
+        "msg": "设计处理量:95m³/d,处理量率:105.00%,超过设计处理量",
+        "abnormalType": "7",
+        "siteName": "棠张镇位河村位河"
+    },
+    {
+        "custNo": "3203080308076",
+        "yearNum": "2023",
+        "dataRange": "4月",
+        "dealNum": "5.97",
+        "totalNum": "0.00",
+        "msg": "平均日处理量:5.97,平均日用电量:0.00,4月1日-4月30日零用电量",
+        "abnormalType": "1",
+        "siteName": "棠张镇新庄村喻庄村"
+    },
+    {
+        "custNo": "3203076140798",
+        "yearNum": "2023",
+        "dataRange": "4月",
+        "dealNum": "5.80",
+        "totalNum": "6.61",
+        "msg": "平均日处理量:5.80,平均日用电量:6.61,4月7日-4月26日平均日用电量0.33",
+        "abnormalType": "1",
+        "siteName": "柳泉镇官路村东官路"
+    },
+    {
+        "custNo": "3203077798703",
+        "yearNum": "2023",
+        "dataRange": "4月",
+        "dealNum": "2.63",
+        "totalNum": "5.49",
+        "msg": "平均日处理量:2.63,平均日用电量:5.49,4月1日-4月20日平均日用电量0.30",
+        "abnormalType": "1",
+        "siteName": "张集镇城头村城头"
+    },
+    {
+        "custNo": "3203003987422",
+        "yearNum": "2023",
+        "dataRange": "4月",
+        "dealNum": "0.47",
+        "totalNum": "3.13",
+        "msg": "平均日处理量:0.47,平均日用电量:3.13,4月1日-4月19日平均日用电量0.93",
+        "abnormalType": "1",
+        "siteName": "大许镇大吴村大吴"
+    },
+    {
+        "custNo": "3203006263653",
+        "yearNum": "2023",
+        "dataRange": "4月",
+        "dealNum": "6.40",
+        "totalNum": "0.34",
+        "msg": "平均日处理量:6.40,平均日用电量:0.34,4月1日-4月30日平均日用电量0.34",
+        "abnormalType": "1",
+        "siteName": "大许镇郑庙村后刘"
+    },
+    {
+        "custNo": "3203006221633",
+        "yearNum": "2023",
+        "dataRange": "4月",
+        "dealNum": "2.07",
+        "totalNum": "3.07",
+        "msg": "平均日处理量:2.07,平均日用电量:3.07,4月7日-4月24日平均日用电量0.41",
+        "abnormalType": "1",
+        "siteName": "利国镇吴庄村义和"
+    },
+    {
+        "custNo": "3203077897174",
+        "yearNum": "2023",
+        "dataRange": "4月",
+        "dealNum": "2.83",
+        "totalNum": "15.88",
+        "msg": "平均日处理量:2.83,平均日用电量:15.88,4月1日-4月19日平均日用电量0.27",
+        "abnormalType": "1",
+        "siteName": "利国镇墓山村墓山（新建）"
+    },
+    {
+        "custNo": "3203080884184",
+        "yearNum": "2023",
+        "dataRange": "4月",
+        "dealNum": "3.80",
+        "totalNum": "0.00",
+        "msg": "平均日处理量:3.80,平均日用电量:0.00,4月1日-4月30日零用电量",
+        "abnormalType": "1",
+        "siteName": "刘集镇东梁庄村瓦房村"
+    },
+    {
+        "custNo": "3203075832693",
+        "yearNum": "2023",
+        "dataRange": "4月",
+        "dealNum": "40",
+        "totalNum": "126.00",
+        "msg": "设计处理量:40m³/d,处理量率:126.00%,超过设计处理量",
+        "abnormalType": "7",
+        "siteName": "何桥镇付村村付村北"
+    },
+    {
+        "custNo": "3208839208068",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "4.84",
+        "totalNum": "12.34",
+        "msg": "平均日处理量:4.84,平均日用电量:12.34,3月1日-3月14日平均日用电量0.64",
+        "abnormalType": "1",
+        "siteName": "黄集镇三座楼孟楼村"
+    },
+    {
+        "custNo": "3203004488457",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "201-217",
+        "totalNum": "710.11-1109.11",
+        "msg": "处理量增加16,用电量增加399.00",
+        "abnormalType": "4",
+        "siteName": "马坡镇大新庄村秦水口"
+    },
+    {
+        "custNo": "3203004489684",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "8.06",
+        "totalNum": "6.34",
+        "msg": "平均日处理量:8.06,平均日用电量:6.34,3月1日-3月22日平均日用电量0.27",
+        "abnormalType": "3",
+        "siteName": "马坡镇拾段村河涯村"
+    },
+    {
+        "custNo": "3203006160403",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "158-174",
+        "totalNum": "356.07-978.58",
+        "msg": "处理量增加16,用电量增加622.51",
+        "abnormalType": "4",
+        "siteName": "马坡镇拾段村绳庄村"
+    },
+    {
+        "custNo": "3203006163220",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "175-179",
+        "totalNum": "1067.31-1188.65",
+        "msg": "处理量增加4,用电量增加121.34",
+        "abnormalType": "4",
+        "siteName": "马坡镇丁集村赵段村东"
+    },
+    {
+        "custNo": "3208839223227",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "326-327",
+        "totalNum": "820.40-612.94",
+        "msg": "处理量增加1,用电量减少207.46",
+        "abnormalType": "6",
+        "siteName": "马坡镇前八段前八段"
+    },
+    {
+        "custNo": "3203003767387",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "1.61",
+        "totalNum": "5.51",
+        "msg": "平均日处理量:1.61,平均日用电量:5.51,3月1日-3月13日零用电量",
+        "abnormalType": "1",
+        "siteName": "茅村镇小张家村小张家"
+    },
+    {
+        "custNo": "3203006263644",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "327-341",
+        "totalNum": "241.88-797.57",
+        "msg": "处理量增加14,用电量增加555.69",
+        "abnormalType": "4",
+        "siteName": "茅村镇小张家村里瓦房"
+    },
+    {
+        "custNo": "3203006275452",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "451-482",
+        "totalNum": "713.14-1120.22",
+        "msg": "处理量增加31,用电量增加407.08",
+        "abnormalType": "4",
+        "siteName": "茅村镇赵庄村李庄"
+    },
+    {
+        "custNo": "3203006276540",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "342-326",
+        "totalNum": "844.28-1268.06",
+        "msg": "处理量减少16,用电量增加423.78",
+        "abnormalType": "5",
+        "siteName": "茅村镇龙庄村大山东"
+    },
+    {
+        "custNo": "3203070093777",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "6.29",
+        "totalNum": "5.06",
+        "msg": "平均日处理量:6.29,平均日用电量:5.06,3月18日-3月31日平均日用电量1.13",
+        "abnormalType": "1",
+        "siteName": "茅村镇班山村季山"
+    },
+    {
+        "custNo": "3203070093777",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "195-216",
+        "totalNum": "156.73-450.87",
+        "msg": "处理量增加21,用电量增加294.14",
+        "abnormalType": "4",
+        "siteName": "茅村镇班山村季山"
+    },
+    {
+        "custNo": "3203075849399",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "6.19",
+        "totalNum": "7.81",
+        "msg": "平均日处理量:6.19,平均日用电量:7.81,3月1日-3月20日平均日用电量0.03",
+        "abnormalType": "1",
+        "siteName": "茅村镇梅庄村大蔡丘"
+    },
+    {
+        "custNo": "3203075849399",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "192-231",
+        "totalNum": "242.16-692.90",
+        "msg": "处理量增加39,用电量增加450.74",
+        "abnormalType": "4",
+        "siteName": "茅村镇梅庄村大蔡丘"
+    },
+    {
+        "custNo": "3208839810710",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "2.74",
+        "totalNum": "9.03",
+        "msg": "平均日处理量:2.74,平均日用电量:9.03,3月1日-3月20日平均日用电量0.24",
+        "abnormalType": "1",
+        "siteName": "茅村镇梁山内华北"
+    },
+    {
+        "custNo": "3208839810710",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "85-106",
+        "totalNum": "279.99-754.47",
+        "msg": "处理量增加21,用电量增加474.48",
+        "abnormalType": "4",
+        "siteName": "茅村镇梁山内华北"
+    },
+    {
+        "custNo": "3203077807769",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "5.97",
+        "totalNum": "2.80",
+        "msg": "平均日处理量:5.97,平均日用电量:2.80,3月1日-3月24日平均日用电量0.02",
+        "abnormalType": "1",
+        "siteName": "汉王镇东沿村项庄（东沿北）"
+    },
+    {
+        "custNo": "3203077807769",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "185-143",
+        "totalNum": "86.68-669.54",
+        "msg": "处理量减少42,用电量增加582.86",
+        "abnormalType": "5",
+        "siteName": "汉王镇东沿村项庄（东沿北）"
+    },
+    {
+        "custNo": "3203079609956",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "12.06",
+        "totalNum": "1.27",
+        "msg": "平均日处理量:12.06,平均日用电量:1.27,3月1日-3月26日零用电量",
+        "abnormalType": "3",
+        "siteName": "汉王镇赵山村陈楼"
+    },
+    {
+        "custNo": "3203070235673",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "50",
+        "totalNum": "143.40",
+        "msg": "设计处理量:50m³/d,处理量率:143.40%,超过设计处理量",
+        "abnormalType": "7",
+        "siteName": "棠张镇高庄村高庄"
+    },
+    {
+        "custNo": "3203070337300",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "95",
+        "totalNum": "92.40",
+        "msg": "设计处理量:95m³/d,处理量率:92.40%,达到设计处理量90%以上",
+        "abnormalType": "7",
+        "siteName": "棠张镇位河村位河"
+    },
+    {
+        "custNo": "3203070396224",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "474-477",
+        "totalNum": "473.12-579.28",
+        "msg": "处理量增加3,用电量增加106.16",
+        "abnormalType": "4",
+        "siteName": "棠张镇田河村宋桥"
+    },
+    {
+        "custNo": "3203079600961",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "3.61",
+        "totalNum": "0.59",
+        "msg": "平均日处理量:3.61,平均日用电量:0.59,3月1日-3月28日零用电量",
+        "abnormalType": "1",
+        "siteName": "棠张镇沙庄崔庄村"
+    },
+    {
+        "custNo": "3203079600997",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "0.94",
+        "totalNum": "0.64",
+        "msg": "平均日处理量:0.94,平均日用电量:0.64,3月1日-3月28日零用电量",
+        "abnormalType": "1",
+        "siteName": "棠张镇高庄村大高庄村"
+    },
+    {
+        "custNo": "3203079601752",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "2.90",
+        "totalNum": "0.73",
+        "msg": "平均日处理量:2.90,平均日用电量:0.73,3月1日-3月28日零用电量",
+        "abnormalType": "1",
+        "siteName": "棠张镇河东村河东村"
+    },
+    {
+        "custNo": "3203079603243",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "2.87",
+        "totalNum": "2.85",
+        "msg": "平均日处理量:2.87,平均日用电量:2.85,3月1日-3月28日零用电量",
+        "abnormalType": "1",
+        "siteName": "棠张镇刘庄村刘庄村"
+    },
+    {
+        "custNo": "3203080308076",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "2.52",
+        "totalNum": "0.00",
+        "msg": "平均日处理量:2.52,平均日用电量:0.00,3月1日-3月31日零用电量",
+        "abnormalType": "1",
+        "siteName": "棠张镇新庄村喻庄村"
+    },
+    {
+        "custNo": "3203003762913",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "195-224",
+        "totalNum": "561.42-924.50",
+        "msg": "处理量增加29,用电量增加363.08",
+        "abnormalType": "4",
+        "siteName": "柳泉镇西堡村西堡"
+    },
+    {
+        "custNo": "3203003764649",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "26-30",
+        "totalNum": "77.69-300.04",
+        "msg": "处理量增加4,用电量增加222.35",
+        "abnormalType": "4",
+        "siteName": "柳泉镇八丁村八丁"
+    },
+    {
+        "custNo": "3203003769634",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "29-34",
+        "totalNum": "132.56-344.56",
+        "msg": "处理量增加5,用电量增加212.00",
+        "abnormalType": "4",
+        "siteName": "柳泉镇王林村城子"
+    },
+    {
+        "custNo": "3203006218953",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "381-365",
+        "totalNum": "774.21-540.93",
+        "msg": "处理量减少16,用电量减少233.28",
+        "abnormalType": "4",
+        "siteName": "柳泉镇西象村西象"
+    },
+    {
+        "custNo": "3203006221653",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "296-301",
+        "totalNum": "699.66-910.52",
+        "msg": "处理量增加5,用电量增加210.86",
+        "abnormalType": "4",
+        "siteName": "柳泉镇王林村伊楼"
+    },
+    {
+        "custNo": "3203006225781",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "325-334",
+        "totalNum": "868.73-972.73",
+        "msg": "处理量增加9,用电量增加104.00",
+        "abnormalType": "4",
+        "siteName": "柳泉镇套里村梁套"
+    },
+    {
+        "custNo": "3203006230461",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "365-371",
+        "totalNum": "783.87-1006.49",
+        "msg": "处理量增加6,用电量增加222.62",
+        "abnormalType": "4",
+        "siteName": "柳泉镇王林村王林"
+    },
+    {
+        "custNo": "3203006242248",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "434-417",
+        "totalNum": "939.63-672.53",
+        "msg": "处理量减少17,用电量减少267.10",
+        "abnormalType": "4",
+        "siteName": "柳泉镇西马村南马"
+    },
+    {
+        "custNo": "3203006243256",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "266-281",
+        "totalNum": "1013.62-1177.89",
+        "msg": "处理量增加15,用电量增加164.27",
+        "abnormalType": "4",
+        "siteName": "柳泉镇东蔡村前郑"
+    },
+    {
+        "custNo": "3203006273433",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "356-371",
+        "totalNum": "381.40-1046.02",
+        "msg": "处理量增加15,用电量增加664.62",
+        "abnormalType": "4",
+        "siteName": "柳泉镇大冯村大冯"
+    },
+    {
+        "custNo": "3203076140798",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "135-174",
+        "totalNum": "650.92-198.16",
+        "msg": "处理量增加39,用电量减少452.76",
+        "abnormalType": "6",
+        "siteName": "柳泉镇官路村东官路"
+    },
+    {
+        "custNo": "3203004213255",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "180-140",
+        "totalNum": "1043.94-504.34",
+        "msg": "处理量减少40,用电量减少539.60",
+        "abnormalType": "4",
+        "siteName": "房村镇杨场村杨场"
+    },
+    {
+        "custNo": "3203077010733",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "1.68",
+        "totalNum": "2.29",
+        "msg": "平均日处理量:1.68,平均日用电量:2.29,3月1日-3月22日平均日用电量0.15",
+        "abnormalType": "1",
+        "siteName": "房村镇大沟里村石塘"
+    },
+    {
+        "custNo": "3203077161185",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "0.74",
+        "totalNum": "4.10",
+        "msg": "平均日处理量:0.74,平均日用电量:4.10,3月1日-3月16日平均日用电量0.32",
+        "abnormalType": "1",
+        "siteName": "房村镇郝湾村沟涯"
+    },
+    {
+        "custNo": "3203077272139",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "2.94",
+        "totalNum": "11.33",
+        "msg": "平均日处理量:2.94,平均日用电量:11.33,3月1日-3月8日平均日用电量0.38",
+        "abnormalType": "1",
+        "siteName": "房村镇周庙村仓屋（周庙）"
+    },
+    {
+        "custNo": "3203079516294",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "0.97",
+        "totalNum": "3.28",
+        "msg": "平均日处理量:0.97,平均日用电量:3.28,3月1日-3月17日零用电量",
+        "abnormalType": "1",
+        "siteName": "房村镇李楼刘牌坊村"
+    },
+    {
+        "custNo": "3203079516795",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "0.15",
+        "totalNum": "0.11",
+        "msg": "平均日处理量:0.15,平均日用电量:0.11,3月1日-3月31日平均日用电量0.11",
+        "abnormalType": "1",
+        "siteName": "房村镇郝湾村郝湾村"
+    },
+    {
+        "custNo": "3203003972089",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "4.77",
+        "totalNum": "5.74",
+        "msg": "平均日处理量:4.77,平均日用电量:5.74,3月2日-3月17日平均日用电量1.24",
+        "abnormalType": "1",
+        "siteName": "张集镇二陈村二陈"
+    },
+    {
+        "custNo": "3203070404272",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "8.65",
+        "totalNum": "5.75",
+        "msg": "平均日处理量:8.65,平均日用电量:5.75,3月1日-3月14日零用电量",
+        "abnormalType": "3",
+        "siteName": "张集镇孟庄村仁和村"
+    },
+    {
+        "custNo": "3203003705588",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "126-102",
+        "totalNum": "517.65-258.07",
+        "msg": "处理量减少24,用电量减少259.58",
+        "abnormalType": "4",
+        "siteName": "大许镇房亭村房亭"
+    },
+    {
+        "custNo": "3203003770292",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "204-195",
+        "totalNum": "623.36-473.13",
+        "msg": "处理量减少9,用电量减少150.23",
+        "abnormalType": "4",
+        "siteName": "大许镇梨园村梨园"
+    },
+    {
+        "custNo": "3203003985852",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "5.03",
+        "totalNum": "23.39",
+        "msg": "平均日处理量:5.03,平均日用电量:23.39,3月15日-3月23日平均日用电量1.03",
+        "abnormalType": "1",
+        "siteName": "大许镇坂桥村板桥"
+    },
+    {
+        "custNo": "3203003985852",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "156-162",
+        "totalNum": "725.11-965.84",
+        "msg": "处理量增加6,用电量增加240.73",
+        "abnormalType": "4",
+        "siteName": "大许镇坂桥村板桥"
+    },
+    {
+        "custNo": "3203006271573",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "246-237",
+        "totalNum": "753.90-1388.55",
+        "msg": "处理量减少9,用电量增加634.65",
+        "abnormalType": "5",
+        "siteName": "大许镇大吴村沟上"
+    },
+    {
+        "custNo": "3203006272399",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "336-312",
+        "totalNum": "463.29-962.56",
+        "msg": "处理量减少24,用电量增加499.27",
+        "abnormalType": "5",
+        "siteName": "大许镇刘鹿村一条脊"
+    },
+    {
+        "custNo": "3203006274543",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "493-501",
+        "totalNum": "63.69-169.42",
+        "msg": "处理量增加8,用电量增加105.73",
+        "abnormalType": "4",
+        "siteName": "大许镇沙庄村小沙庄"
+    },
+    {
+        "custNo": "3203077167708",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "118-119",
+        "totalNum": "425.81-544.32",
+        "msg": "处理量增加1,用电量增加118.51",
+        "abnormalType": "4",
+        "siteName": "大许镇后王村后王"
+    },
+    {
+        "custNo": "3208839203606",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "249-257",
+        "totalNum": "416.79-256.14",
+        "msg": "处理量增加8,用电量减少160.65",
+        "abnormalType": "6",
+        "siteName": "大彭镇付庄村小刘庄"
+    },
+    {
+        "custNo": "3203003936315",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "8.35",
+        "totalNum": "3.74",
+        "msg": "平均日处理量:8.35,平均日用电量:3.74,3月15日-3月22日平均日用电量0.57",
+        "abnormalType": "3",
+        "siteName": "单集镇岳楼村岳楼"
+    },
+    {
+        "custNo": "3203070346302",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "20",
+        "totalNum": "99.70",
+        "msg": "设计处理量:20m³/d,处理量率:99.70%,达到设计处理量90%以上",
+        "abnormalType": "7",
+        "siteName": "单集镇詹湖村西耿集路北"
+    },
+    {
+        "custNo": "3203079575626",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "1.35",
+        "totalNum": "1.34",
+        "msg": "平均日处理量:1.35,平均日用电量:1.34,3月1日-3月26日零用电量",
+        "abnormalType": "1",
+        "siteName": "单集镇黄集村黄集村"
+    },
+    {
+        "custNo": "3203003753668",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "152-143",
+        "totalNum": "137.63-244.69",
+        "msg": "处理量减少9,用电量增加107.06",
+        "abnormalType": "5",
+        "siteName": "利国镇吴庄村吴庄"
+    },
+    {
+        "custNo": "3203006221633",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "1.13",
+        "totalNum": "0.42",
+        "msg": "平均日处理量:1.13,平均日用电量:0.42,3月1日-3月31日平均日用电量0.42",
+        "abnormalType": "1",
+        "siteName": "利国镇吴庄村义和"
+    },
+    {
+        "custNo": "3203006249073",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "192-201",
+        "totalNum": "178.13-326.06",
+        "msg": "处理量增加9,用电量增加147.93",
+        "abnormalType": "4",
+        "siteName": "利国镇西李村小新庄（后石楼）"
+    },
+    {
+        "custNo": "3203077173044",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "5.03",
+        "totalNum": "7.21",
+        "msg": "平均日处理量:5.03,平均日用电量:7.21,3月1日-3月13日平均日用电量0.36",
+        "abnormalType": "1",
+        "siteName": "利国镇谭家村谭家"
+    },
+    {
+        "custNo": "3203079704973",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "468-472",
+        "totalNum": ".00-704.64",
+        "msg": "处理量增加4,用电量增加704.64",
+        "abnormalType": "4",
+        "siteName": "利国镇吴庄村吴庄大井"
+    },
+    {
+        "custNo": "3208839249294",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "27-22",
+        "totalNum": "378.52-491.34",
+        "msg": "处理量减少5,用电量增加112.82",
+        "abnormalType": "5",
+        "siteName": "刘集镇丁场村前丁场"
+    },
+    {
+        "custNo": "3208839560582",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "140-129",
+        "totalNum": "501.84-342.17",
+        "msg": "处理量减少11,用电量减少159.67",
+        "abnormalType": "4",
+        "siteName": "刘集镇李庄村孙庄村"
+    },
+    {
+        "custNo": "3203006173063",
+        "yearNum": "2023",
+        "dataRange": "3月-4月",
+        "dealNum": "163-157",
+        "totalNum": "235.71-425.11",
+        "msg": "处理量减少6,用电量增加189.40",
+        "abnormalType": "5",
+        "siteName": "何桥镇土楼村大庄村"
+    },
+    {
+        "custNo": "3203076647561",
+        "yearNum": "2023",
+        "dataRange": "3月",
+        "dealNum": "1.00",
+        "totalNum": "2.91",
+        "msg": "平均日处理量:1.00,平均日用电量:2.91,3月10日-3月27日平均日用电量0.14",
+        "abnormalType": "1",
+        "siteName": "伊庄镇马集村新马集"
+    },
+    {
+        "custNo": "3208839208068",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "4.11",
+        "totalNum": "10.54",
+        "msg": "平均日处理量:4.11,平均日用电量:10.54,2月12日-2月28日平均日用电量0.55",
+        "abnormalType": "1",
+        "siteName": "黄集镇三座楼孟楼村"
+    },
+    {
+        "custNo": "3203003982869",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "6.29",
+        "totalNum": "9.03",
+        "msg": "平均日处理量:6.29,平均日用电量:9.03,2月20日-2月28日平均日用电量0.33",
+        "abnormalType": "1",
+        "siteName": "茅村镇洞山村洞山"
+    },
+    {
+        "custNo": "3203006276552",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "0.54",
+        "totalNum": "2.80",
+        "msg": "平均日处理量:0.54,平均日用电量:2.80,2月1日-2月23日平均日用电量0.34",
+        "abnormalType": "1",
+        "siteName": "茅村镇任庄村任庄（叶台聚兴庄）"
+    },
+    {
+        "custNo": "3208839810710",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "0.54",
+        "totalNum": "0.24",
+        "msg": "平均日处理量:0.54,平均日用电量:0.24,2月1日-2月28日平均日用电量0.24",
+        "abnormalType": "1",
+        "siteName": "茅村镇梁山内华北"
+    },
+    {
+        "custNo": "3203077807769",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "5.61",
+        "totalNum": "0.54",
+        "msg": "平均日处理量:5.61,平均日用电量:0.54,2月3日-2月25日零用电量",
+        "abnormalType": "1",
+        "siteName": "汉王镇东沿村项庄（东沿北）"
+    },
+    {
+        "custNo": "3203079609956",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "5.18",
+        "totalNum": "0.00",
+        "msg": "平均日处理量:5.18,平均日用电量:0.00,2月1日-2月28日零用电量",
+        "abnormalType": "1",
+        "siteName": "汉王镇赵山村陈楼"
+    },
+    {
+        "custNo": "3203004195698",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "8.82",
+        "totalNum": "2.06",
+        "msg": "平均日处理量:8.82,平均日用电量:2.06,2月1日-2月19日平均日用电量0.21",
+        "abnormalType": "3",
+        "siteName": "棠张镇冯楼村冯楼"
+    },
+    {
+        "custNo": "3203004203183",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "5.29",
+        "totalNum": "3.48",
+        "msg": "平均日处理量:5.29,平均日用电量:3.48,2月1日-2月16日平均日用电量0.21",
+        "abnormalType": "1",
+        "siteName": "棠张镇郭湖村郭湖"
+    },
+    {
+        "custNo": "3203070235673",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "50",
+        "totalNum": "251.30",
+        "msg": "设计处理量:50m³/d,处理量率:251.30%,超过设计处理量",
+        "abnormalType": "7",
+        "siteName": "棠张镇高庄村高庄"
+    },
+    {
+        "custNo": "3203070389239",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "9.07",
+        "totalNum": "5.86",
+        "msg": "平均日处理量:9.07,平均日用电量:5.86,2月1日-2月16日平均日用电量0.38",
+        "abnormalType": "3",
+        "siteName": "棠张镇刘庄村官庄"
+    },
+    {
+        "custNo": "3203003943153",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "7.04",
+        "totalNum": "5.01",
+        "msg": "平均日处理量:7.04,平均日用电量:5.01,2月7日-2月16日平均日用电量0.84",
+        "abnormalType": "1",
+        "siteName": "房村镇林场村林场村"
+    },
+    {
+        "custNo": "3203077161185",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "0.04",
+        "totalNum": "0.14",
+        "msg": "平均日处理量:0.04,平均日用电量:0.14,2月1日-2月28日平均日用电量0.14",
+        "abnormalType": "1",
+        "siteName": "房村镇郝湾村沟涯"
+    },
+    {
+        "custNo": "3203077272139",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "0.14",
+        "totalNum": "3.54",
+        "msg": "平均日处理量:0.14,平均日用电量:3.54,2月3日-2月15日平均日用电量0.37",
+        "abnormalType": "1",
+        "siteName": "房村镇周庙村仓屋（周庙）"
+    },
+    {
+        "custNo": "3203077703878",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "0.07",
+        "totalNum": "1.76",
+        "msg": "平均日处理量:0.07,平均日用电量:1.76,2月1日-2月17日零用电量",
+        "abnormalType": "1",
+        "siteName": "房村镇李庄村小郝庄"
+    },
+    {
+        "custNo": "3203079041585",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "4.96",
+        "totalNum": "11.04",
+        "msg": "平均日处理量:4.96,平均日用电量:11.04,2月1日-2月8日零用电量",
+        "abnormalType": "1",
+        "siteName": "房村镇李庄村文庄"
+    },
+    {
+        "custNo": "3203003972089",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "4.96",
+        "totalNum": "4.77",
+        "msg": "平均日处理量:4.96,平均日用电量:4.77,2月1日-2月12日平均日用电量1.28",
+        "abnormalType": "1",
+        "siteName": "张集镇二陈村二陈"
+    },
+    {
+        "custNo": "3203077788517",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "0.57",
+        "totalNum": "2.03",
+        "msg": "平均日处理量:0.57,平均日用电量:2.03,2月1日-2月11日平均日用电量0.30;2月14日-2月22日平均日用电量0.29",
+        "abnormalType": "1",
+        "siteName": "张集镇李村村陈楼"
+    },
+    {
+        "custNo": "3203079175684",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "5.32",
+        "totalNum": "0.48",
+        "msg": "平均日处理量:5.32,平均日用电量:0.48,2月1日-2月28日平均日用电量0.48",
+        "abnormalType": "1",
+        "siteName": "张集镇水口村水口"
+    },
+    {
+        "custNo": "3203006278758",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "100",
+        "totalNum": "106.40",
+        "msg": "设计处理量:100m³/d,处理量率:106.40%,超过设计处理量",
+        "abnormalType": "7",
+        "siteName": "大许镇太山村西太山"
+    },
+    {
+        "custNo": "3203006279129",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "80",
+        "totalNum": "90.80",
+        "msg": "设计处理量:80m³/d,处理量率:90.80%,达到设计处理量90%以上",
+        "abnormalType": "7",
+        "siteName": "大许镇太山村东太山"
+    },
+    {
+        "custNo": "3203079048284",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "7.57",
+        "totalNum": "14.79",
+        "msg": "平均日处理量:7.57,平均日用电量:14.79,2月1日-2月9日零用电量",
+        "abnormalType": "1",
+        "siteName": "大许镇河西村上河湾"
+    },
+    {
+        "custNo": "3203003947265",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "8.96",
+        "totalNum": "2.04",
+        "msg": "平均日处理量:8.96,平均日用电量:2.04,2月1日-2月17日平均日用电量0.40",
+        "abnormalType": "3",
+        "siteName": "单集镇庙山村庙山"
+    },
+    {
+        "custNo": "3203070346302",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "20",
+        "totalNum": "94.60",
+        "msg": "设计处理量:20m³/d,处理量率:94.60%,达到设计处理量90%以上",
+        "abnormalType": "7",
+        "siteName": "单集镇詹湖村西耿集路北"
+    },
+    {
+        "custNo": "3203077022661",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "4.79",
+        "totalNum": "0.41",
+        "msg": "平均日处理量:4.79,平均日用电量:0.41,2月1日-2月28日平均日用电量0.41",
+        "abnormalType": "1",
+        "siteName": "单集镇姜集村姜集"
+    },
+    {
+        "custNo": "3203079181863",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "2.00",
+        "totalNum": "0.00",
+        "msg": "平均日处理量:2.00,平均日用电量:0.00,2月1日-2月27日零用电量",
+        "abnormalType": "1",
+        "siteName": "单集镇庙山村新庙山"
+    },
+    {
+        "custNo": "3203006221633",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "3.04",
+        "totalNum": "4.73",
+        "msg": "平均日处理量:3.04,平均日用电量:4.73,2月16日-2月28日平均日用电量0.42",
+        "abnormalType": "1",
+        "siteName": "利国镇吴庄村义和"
+    },
+    {
+        "custNo": "3203076516725",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "1.68",
+        "totalNum": "6.60",
+        "msg": "平均日处理量:1.68,平均日用电量:6.60,2月1日-2月8日平均日用电量0.54",
+        "abnormalType": "1",
+        "siteName": "伊庄镇卢套村卢西"
+    },
+    {
+        "custNo": "3203076516726",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "0.18",
+        "totalNum": "2.03",
+        "msg": "平均日处理量:0.18,平均日用电量:2.03,2月1日-2月24日平均日用电量0.31",
+        "abnormalType": "1",
+        "siteName": "伊庄镇赵圩村赵庄"
+    },
+    {
+        "custNo": "3203076516726",
+        "yearNum": "2023",
+        "dataRange": "2月-3月",
+        "dealNum": "5-21",
+        "totalNum": "56.80-274.85",
+        "msg": "处理量增加16,用电量增加218.05",
+        "abnormalType": "4",
+        "siteName": "伊庄镇赵圩村赵庄"
+    },
+    {
+        "custNo": "3203076647561",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "2.25",
+        "totalNum": "4.64",
+        "msg": "平均日处理量:2.25,平均日用电量:4.64,2月1日-2月8日平均日用电量0.15",
+        "abnormalType": "1",
+        "siteName": "伊庄镇马集村新马集"
+    },
+    {
+        "custNo": "3203076666465",
+        "yearNum": "2023",
+        "dataRange": "2月",
+        "dealNum": "5.71",
+        "totalNum": "3.36",
+        "msg": "平均日处理量:5.71,平均日用电量:3.36,2月1日-2月15日平均日用电量0.09",
+        "abnormalType": "1",
+        "siteName": "伊庄镇牌坊村牌坊"
+    },
+    {
+        "custNo": "3203006153885",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "4.68",
+        "totalNum": "19.79",
+        "msg": "平均日处理量:4.68,平均日用电量:19.79,1月1日-1月8日平均日用电量0.31",
+        "abnormalType": "1",
+        "siteName": "黄集镇聂楼村聂楼村"
+    },
+    {
+        "custNo": "3203006153885",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "145-156",
+        "totalNum": "613.37-793.80",
+        "msg": "处理量增加11,用电量增加180.43",
+        "abnormalType": "4",
+        "siteName": "黄集镇聂楼村聂楼村"
+    },
+    {
+        "custNo": "3203006164012",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "161-151",
+        "totalNum": "272.01-171.90",
+        "msg": "处理量减少10,用电量减少100.11",
+        "abnormalType": "4",
+        "siteName": "黄集镇黄东村闫口村"
+    },
+    {
+        "custNo": "3208839208053",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "101-82",
+        "totalNum": "266.85-516.04",
+        "msg": "处理量减少19,用电量增加249.19",
+        "abnormalType": "5",
+        "siteName": "黄集镇杨庄村中王庙"
+    },
+    {
+        "custNo": "3208839208064",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "7.81",
+        "totalNum": "19.59",
+        "msg": "平均日处理量:7.81,平均日用电量:19.59,1月1日-1月8日平均日用电量0.32",
+        "abnormalType": "1",
+        "siteName": "黄集镇传楼村城里庄"
+    },
+    {
+        "custNo": "3208839208064",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "242-251",
+        "totalNum": "607.36-776.86",
+        "msg": "处理量增加9,用电量增加169.50",
+        "abnormalType": "4",
+        "siteName": "黄集镇传楼村城里庄"
+    },
+    {
+        "custNo": "3203006150956",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "138-151",
+        "totalNum": "347.05-206.25",
+        "msg": "处理量增加13,用电量减少140.80",
+        "abnormalType": "6",
+        "siteName": "马坡镇王堂村荣楼村"
+    },
+    {
+        "custNo": "3203006157414",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "209-215",
+        "totalNum": "469.14-621.73",
+        "msg": "处理量增加6,用电量增加152.59",
+        "abnormalType": "4",
+        "siteName": "马坡镇丁集村赵段村西"
+    },
+    {
+        "custNo": "3203006161258",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "206-214",
+        "totalNum": "270.34-415.13",
+        "msg": "处理量增加8,用电量增加144.79",
+        "abnormalType": "4",
+        "siteName": "马坡镇拾段村代海村"
+    },
+    {
+        "custNo": "3203006163220",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "177-181",
+        "totalNum": "459.81-854.87",
+        "msg": "处理量增加4,用电量增加395.06",
+        "abnormalType": "4",
+        "siteName": "马坡镇丁集村赵段村东"
+    },
+    {
+        "custNo": "3203070093777",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "6.55",
+        "totalNum": "8.55",
+        "msg": "平均日处理量:6.55,平均日用电量:8.55,1月1日-1月10日平均日用电量0.88",
+        "abnormalType": "1",
+        "siteName": "茅村镇班山村季山"
+    },
+    {
+        "custNo": "3208839810710",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "0.32",
+        "totalNum": "0.24",
+        "msg": "平均日处理量:0.32,平均日用电量:0.24,1月1日-1月31日平均日用电量0.24",
+        "abnormalType": "1",
+        "siteName": "茅村镇梁山内华北"
+    },
+    {
+        "custNo": "3203078105343",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "1.00",
+        "totalNum": "6.96",
+        "msg": "平均日处理量:1.00,平均日用电量:6.96,1月1日-1月12日平均日用电量0.06",
+        "abnormalType": "1",
+        "siteName": "汉王镇东沿村姜楼"
+    },
+    {
+        "custNo": "3203079609956",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "0.32",
+        "totalNum": "0.00",
+        "msg": "平均日处理量:0.32,平均日用电量:0.00,1月1日-1月31日零用电量",
+        "abnormalType": "1",
+        "siteName": "汉王镇赵山村陈楼"
+    },
+    {
+        "custNo": "3203004195698",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "9.68",
+        "totalNum": "1.08",
+        "msg": "平均日处理量:9.68,平均日用电量:1.08,1月8日-1月16日平均日用电量0.21",
+        "abnormalType": "3",
+        "siteName": "棠张镇冯楼村冯楼"
+    },
+    {
+        "custNo": "3203004203183",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "5.26",
+        "totalNum": "2.35",
+        "msg": "平均日处理量:5.26,平均日用电量:2.35,1月9日-1月31日平均日用电量0.21",
+        "abnormalType": "1",
+        "siteName": "棠张镇郭湖村郭湖"
+    },
+    {
+        "custNo": "3203070235673",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "50",
+        "totalNum": "243.70",
+        "msg": "设计处理量:50m³/d,处理量率:243.70%,超过设计处理量",
+        "abnormalType": "7",
+        "siteName": "棠张镇高庄村高庄"
+    },
+    {
+        "custNo": "3203070389239",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "7.03",
+        "totalNum": "0.38",
+        "msg": "平均日处理量:7.03,平均日用电量:0.38,1月1日-1月31日平均日用电量0.38",
+        "abnormalType": "1",
+        "siteName": "棠张镇刘庄村官庄"
+    },
+    {
+        "custNo": "3203006218954",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "6.23",
+        "totalNum": "2.09",
+        "msg": "平均日处理量:6.23,平均日用电量:2.09,1月1日-1月28日平均日用电量0.04",
+        "abnormalType": "1",
+        "siteName": "柳泉镇王林村景山"
+    },
+    {
+        "custNo": "3203006218954",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "193-235",
+        "totalNum": "64.86-706.38",
+        "msg": "处理量增加42,用电量增加641.52",
+        "abnormalType": "4",
+        "siteName": "柳泉镇王林村景山"
+    },
+    {
+        "custNo": "3203006221653",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "362-349",
+        "totalNum": "1028.53-573.33",
+        "msg": "处理量减少13,用电量减少455.20",
+        "abnormalType": "4",
+        "siteName": "柳泉镇王林村伊楼"
+    },
+    {
+        "custNo": "3203003948144",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "451-423",
+        "totalNum": "743.96-266.77",
+        "msg": "处理量减少28,用电量减少477.19",
+        "abnormalType": "4",
+        "siteName": "房村镇八王村八王村"
+    },
+    {
+        "custNo": "3203079041585",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "4.61",
+        "totalNum": "0.00",
+        "msg": "平均日处理量:4.61,平均日用电量:0.00,1月1日-1月31日零用电量",
+        "abnormalType": "1",
+        "siteName": "房村镇李庄村文庄"
+    },
+    {
+        "custNo": "3203079041585",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "143-139",
+        "totalNum": ".00-308.99",
+        "msg": "处理量减少4,用电量增加308.99",
+        "abnormalType": "5",
+        "siteName": "房村镇李庄村文庄"
+    },
+    {
+        "custNo": "3203003934791",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "187-176",
+        "totalNum": "25.71-152.48",
+        "msg": "处理量减少11,用电量增加126.77",
+        "abnormalType": "5",
+        "siteName": "张集镇姥庙村姥庙"
+    },
+    {
+        "custNo": "3203070404272",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "6.90",
+        "totalNum": "0.00",
+        "msg": "平均日处理量:6.90,平均日用电量:0.00,1月1日-1月31日零用电量",
+        "abnormalType": "1",
+        "siteName": "张集镇孟庄村仁和村"
+    },
+    {
+        "custNo": "3203078151417",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "6.84",
+        "totalNum": "0.00",
+        "msg": "平均日处理量:6.84,平均日用电量:0.00,1月1日-1月8日零用电量",
+        "abnormalType": "1",
+        "siteName": "张集镇李村村李村"
+    },
+    {
+        "custNo": "3203079175684",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "3.52",
+        "totalNum": "0.00",
+        "msg": "平均日处理量:3.52,平均日用电量:0.00,1月1日-1月31日零用电量",
+        "abnormalType": "1",
+        "siteName": "张集镇水口村水口"
+    },
+    {
+        "custNo": "3203003985852",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "183-192",
+        "totalNum": "1089.77-800.21",
+        "msg": "处理量增加9,用电量减少289.56",
+        "abnormalType": "6",
+        "siteName": "大许镇坂桥村板桥"
+    },
+    {
+        "custNo": "3203003994585",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "245-231",
+        "totalNum": "1212.18-607.48",
+        "msg": "处理量减少14,用电量减少604.70",
+        "abnormalType": "4",
+        "siteName": "大许镇郑庙村后刘家"
+    },
+    {
+        "custNo": "3203006271573",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "273-258",
+        "totalNum": "243.05-400.04",
+        "msg": "处理量减少15,用电量增加156.99",
+        "abnormalType": "5",
+        "siteName": "大许镇大吴村沟上"
+    },
+    {
+        "custNo": "3203006274543",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "681-649",
+        "totalNum": "970.65-487.92",
+        "msg": "处理量减少32,用电量减少482.73",
+        "abnormalType": "4",
+        "siteName": "大许镇沙庄村小沙庄"
+    },
+    {
+        "custNo": "3203006278758",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "100",
+        "totalNum": "95.20",
+        "msg": "设计处理量:100m³/d,处理量率:95.20%,达到设计处理量90%以上",
+        "abnormalType": "7",
+        "siteName": "大许镇太山村西太山"
+    },
+    {
+        "custNo": "3203006279107",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "206-198",
+        "totalNum": "513.35-346.83",
+        "msg": "处理量减少8,用电量减少166.52",
+        "abnormalType": "4",
+        "siteName": "大许镇刘鹿村刘鹿"
+    },
+    {
+        "custNo": "3203006280088",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "359-319",
+        "totalNum": "949.02-425.77",
+        "msg": "处理量减少40,用电量减少523.25",
+        "abnormalType": "4",
+        "siteName": "大许镇小墩村中柳"
+    },
+    {
+        "custNo": "3203076495981",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "3.39",
+        "totalNum": "3.55",
+        "msg": "平均日处理量:3.39,平均日用电量:3.55,1月1日-1月8日零用电量;1月18日-1月27日零用电量",
+        "abnormalType": "1",
+        "siteName": "大许镇河西村宋庄"
+    },
+    {
+        "custNo": "3203076664975",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "5.10",
+        "totalNum": "14.93",
+        "msg": "平均日处理量:5.10,平均日用电量:14.93,1月1日-1月8日零用电量",
+        "abnormalType": "1",
+        "siteName": "大许镇九山村九山（大小九山）"
+    },
+    {
+        "custNo": "3203076664975",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "158-172",
+        "totalNum": "462.89-669.72",
+        "msg": "处理量增加14,用电量增加206.83",
+        "abnormalType": "4",
+        "siteName": "大许镇九山村九山（大小九山）"
+    },
+    {
+        "custNo": "3203077061320",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "3.32",
+        "totalNum": "18.53",
+        "msg": "平均日处理量:3.32,平均日用电量:18.53,1月1日-1月8日零用电量",
+        "abnormalType": "1",
+        "siteName": "大许镇后王村后火神庙"
+    },
+    {
+        "custNo": "3203077121384",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "3.61",
+        "totalNum": "9.71",
+        "msg": "平均日处理量:3.61,平均日用电量:9.71,1月1日-1月8日零用电量",
+        "abnormalType": "1",
+        "siteName": "大许镇后王村前火神庙"
+    },
+    {
+        "custNo": "3203077121384",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "112-105",
+        "totalNum": "300.91-456.60",
+        "msg": "处理量减少7,用电量增加155.69",
+        "abnormalType": "5",
+        "siteName": "大许镇后王村前火神庙"
+    },
+    {
+        "custNo": "3203077167708",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "4.00",
+        "totalNum": "14.64",
+        "msg": "平均日处理量:4.00,平均日用电量:14.64,1月1日-1月8日零用电量",
+        "abnormalType": "1",
+        "siteName": "大许镇后王村后王"
+    },
+    {
+        "custNo": "3203077745721",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "0.74",
+        "totalNum": "0.52",
+        "msg": "平均日处理量:0.74,平均日用电量:0.52,1月6日-1月29日零用电量",
+        "abnormalType": "1",
+        "siteName": "大许镇东探村桃园"
+    },
+    {
+        "custNo": "3203077826821",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "5.87",
+        "totalNum": "14.05",
+        "msg": "平均日处理量:5.87,平均日用电量:14.05,1月1日-1月8日零用电量",
+        "abnormalType": "1",
+        "siteName": "大许镇东探村东探"
+    },
+    {
+        "custNo": "3203077826821",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "182-165",
+        "totalNum": "435.56-651.18",
+        "msg": "处理量减少17,用电量增加215.62",
+        "abnormalType": "5",
+        "siteName": "大许镇东探村东探"
+    },
+    {
+        "custNo": "3203070346302",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "20",
+        "totalNum": "100.50",
+        "msg": "设计处理量:20m³/d,处理量率:100.50%,超过设计处理量",
+        "abnormalType": "7",
+        "siteName": "单集镇詹湖村西耿集路北"
+    },
+    {
+        "custNo": "3203006221633",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "3.13",
+        "totalNum": "8.14",
+        "msg": "平均日处理量:3.13,平均日用电量:8.14,1月1日-1月13日平均日用电量1.31",
+        "abnormalType": "1",
+        "siteName": "利国镇吴庄村义和"
+    },
+    {
+        "custNo": "3203006232572",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "311-298",
+        "totalNum": "1304.17-1080.21",
+        "msg": "处理量减少13,用电量减少223.96",
+        "abnormalType": "4",
+        "siteName": "利国镇厉湾村小厉湾"
+    },
+    {
+        "custNo": "3203006237230",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "274-262",
+        "totalNum": "834.16-664.32",
+        "msg": "处理量减少12,用电量减少169.84",
+        "abnormalType": "4",
+        "siteName": "利国镇黄山村蒋家"
+    },
+    {
+        "custNo": "3203077083213",
+        "yearNum": "2023",
+        "dataRange": "1月",
+        "dealNum": "6.61",
+        "totalNum": "5.78",
+        "msg": "平均日处理量:6.61,平均日用电量:5.78,1月1日-1月8日零用电量",
+        "abnormalType": "1",
+        "siteName": "利国镇谭家村岳庄"
+    },
+    {
+        "custNo": "3208839249306",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "117-113",
+        "totalNum": "95.01-259.45",
+        "msg": "处理量减少4,用电量增加164.44",
+        "abnormalType": "5",
+        "siteName": "刘集镇施楼村施楼村"
+    },
+    {
+        "custNo": "3203006173057",
+        "yearNum": "2023",
+        "dataRange": "1月-2月",
+        "dealNum": "145-128",
+        "totalNum": "167.65-376.34",
+        "msg": "处理量减少17,用电量增加208.69",
+        "abnormalType": "5",
+        "siteName": "何桥镇土楼村朱集村"
+    }
+]
